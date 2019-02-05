@@ -85,6 +85,9 @@
 % numbering items in reversed orders
 \usepackage{etaremune}
 
+% insert picture
+%\usepackage{graphicx}
+
 \begin{document}
 
 % No header for the first page
@@ -92,24 +95,41 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % HEADER
-\begin{center}
-    {\fontsize{36pt}{0}\selectfont \MyName}
-    \\[0.5cm]
-    {\fontsize{16pt}{0}\selectfont \MyRole}
-    \\[0.3cm]
-    {\fontsize{10pt}{0}\selectfont
-        \Affiliation
-        \\[0.2cm]
-        \Address
-        \\[0.08cm]
+%\begin{center}
+    %\begin{tabular}{p{0.30\textwidth} p{0.70\textwidth}}
+    %\includegraphics[scale=0.5]{dsq.png}&
+    %{\fontsize{30pt}{0}\selectfont Shaoqing Dai}
+    %\end{tabular}
+    %{\fontsize{36pt}{0}\selectfont \MyName}
+    %\\[0.5cm]
+    %{\fontsize{16pt}{0}\selectfont \MyRole}
+    %\\[0.3cm]
+    %{\fontsize{10pt}{0}\selectfont
+        %\Affiliation
+        %\\[0.2cm]
+        %\Address
+        %\\[0.08cm]
 %       \makefield{\faEnvelopeO}{\href{mailto:\Email}{\texttt{\Email}}}
 %       \, | \,
 %       \makefield{\faGlobe}{\url{\Website}}
-        Email: \href{mailto:\Email}{\texttt{\Email}}
-        \, | \,
-        Website: \url{\Website}
+        %Email: \href{mailto:\Email}{\texttt{\Email}}
+        %\, | \,
+        %Website: \url{\Website}
+    %}
+%\end{center}
+\begin{tabular}{p{0.65\textwidth} p{0.35\textwidth}}
+    {\fontsize{25pt}{0}\selectfont \MyName} \newline
+    \newline
+    {\fontsize{12pt}{0}\selectfont \MyRole} \newline
+    %{\fontsize{6pt}{0}\selectfont \Affiliation}
+    &
+    {\fontsize{10pt}{0}\selectfont 
+    %\Affiliation \newline
+    \Address \newline
+    Email: \href{mailto:\Email}{\texttt{\Email}}\newline
+    Website: \url{\Website}
     }
-\end{center}
+\end{tabular}
 
 \input{education}
 %\input{awards}
