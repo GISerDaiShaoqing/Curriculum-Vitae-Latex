@@ -1,0 +1,593 @@
+---
+title: "戴劭勍简历"
+author: 戴劭勍
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+
+![戴劭勍](http://science.gisersqdai.top/20150924213710582189-965.jpg){height=50%, width=50%}
+
+
+个人信息 {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-mobile"></i> +86 0592-6190679
+- <i class="fa fa-github"></i> [github.com/GISerDaiShaoqing](https://github.com/GISerDaiShaoqing)
+- <i class="fa fa-envelope"></i> sqdai@iue.ac.cn
+- <i class="fa fa-globe"></i> [homepage](http://gisersqdai.top/mycv/)
+- <i class="fa fa-map"></i> 中国厦门市集美大道1799号, 361021
+- <i class="fa fa-building"></i> 中国科学院城市环境研究所
+- 如果有什么需要,请通过邮件联系我.
+
+
+专业知识 & 技能 {#skils}
+--------------------------------------------------------------------------------
+
+- **主修课程**:地理信息科学, 遥感, 空间统计, 城市研究, 环境, 生态模型, 景观生态.
+
+- **编程**: CGA, Python, Fortran, R, Shell, LaTeX, Makrdown, Github.
+
+- **专业知识**: QGIS, ArcGIS, ENVI, Erdas Image, PostGIS, City Engine.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+这份简历依赖于R语言包[**pagedown**](https://github.com/rstudio/pagedown).
+
+最近更新: `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+戴劭勍 {#title}
+--------------------------------------------------------------------------------
+
+### 生态学硕士研究生
+
+教育经历 {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### 福建师范大学,地理科学学院
+
+地理科学(国家人才培养基地)学士
+
+中国福州
+
+2012 - 2016
+
+毕业论文: 基于BIM与GIS的智慧校园规划选址与设计——以福建师范大学为例(导师：江辉仙 副教授)
+
+### 中国科学院大学, 中国科学院城市环境研究所
+
+生态学硕士
+
+中国厦门
+
+2016 - 2019
+
+毕业论文: 耦合生态过程模型与排放清单的碳源汇制图(导师：任引 研究员)
+
+研究兴趣 {data-icon=heart-o}
+--------------------------------------------------------------------------------
+城市计算; 时空大数据; 生态模型与生态信息学; 生态学、GIS与RS集成;空间统计
+
+
+开发软件 {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### D3L Tool of NASA Satellite
+
+这是一个从NASA下载卫星影像如MODIS产品，MERIS和其他产品的图形界面软件,更多信息详见http://gisersqdai.top/D3LTool/。
+
+N/A
+
+2018
+
+
+### 地理探测器R语言版
+
+基于R开发的地理探测器。
+
+N/A
+
+2018
+
+
+### GitHub论文笔记
+
+用于论文笔记的软件。
+
+N/A
+
+2018
+
+出版物-期刊论文 {data-icon=file}
+--------------------------------------------------------------------------------
+
+### PM2.5 spatiotemporal evolution and drivers in the Yangtze River Delta between 2005 and 2015.
+
+Atmosphere. 2019, 10(2), 55-69. doi:10.3390/atmos10020055. [SCI, IF = 1.704].
+
+N/A
+
+2019
+
+GL. Yun, YR. He, YT. Jiang, PF. Dou, **SQ. Dai**.
+
+### Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models.
+
+Remote Sensing. 2018, 10(11), 1814-1832. doi:10.3390/rs10111814. [SCI, IF = 3.406].
+
+N/A
+
+2018 
+
+SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+
+### Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.
+
+International Journal of Environmental Research and Public Health. 2018, 15(10), 2175-2198. doi:10.3390/ijerph15102175. [SCI, IF = 2.145].
+
+N/A
+
+2018 
+
+SD. Zuo, **SQ. Dai**, YY. Li, JF. Tang, Y. Ren.
+
+### H市城区步行环境对两抢一盗警情的影响.
+
+地理科学. 2018, 38(8), 1235-1244. doi:10.13249/j.cnki.sgs.2018.08.005. [CSCD, 复合影响因子=3.964].
+
+N/A
+
+2018 
+
+**戴劭勍**, 江辉仙, 李佳佳, 苏娴, 吴娟, 任引.
+
+### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale.
+
+Remote Sensing. 2018, 10(4), 521-538. doi:10.3390/rs10040521. [SCI, IF = 3.406].
+
+N/A
+
+2018 
+
+GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+
+### 不同环境规制工具对中国节能减排技术创新的影响——基于285个地级市面板数据.
+
+中国人口·资源与环境. 2018, 210(02), 115-122. doi:10.12062/cpre.20170915. [CSCD, 复合影响因子=5.211].
+
+N/A
+
+2018 
+
+叶琴, 曾刚, **戴劭勍**, 王丰龙.
+
+### Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.
+
+Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI].
+
+N/A
+
+2017
+
+Q. Ye, **SQ. Dai**, G. Zeng.
+ 
+### 基于政府大数据的北京城市空间发展模式分析.
+
+地理信息世界. 2017, 23(3), 20-26. doi:10.3969/j.issn.1672-1586.2016.03.004. [JST, 复合影响因子=0.935].
+
+N/A
+
+2016
+
+李苗裔, **戴劭勍**, 王静远, 沈振江.
+
+出版物-著作章节 {data-icon=file}
+--------------------------------------------------------------------------------
+### Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China.
+
+International Low Impact Development Conference China 2016: LID Applications in Sponge City Projects. 2017, 251-260. doi:10.1061/9780784481042.028. [EI].
+
+N/A
+
+2017
+
+**SQ. Dai**, JJ. Li, SD. Zuo, Y. Ren, HX. Jiang.
+
+语言 {data-icon=comments-o}
+--------------------------------------------------------------------------------
+#### Chinese:母语  
+#### English:第一外语
+
+出版物-投稿/返修论文 {data-icon=book}
+--------------------------------------------------------------------------------
+### High-resolution mapping of direct CO<SUB>2</SUB> emissions and uncertainties at the urban scale.
+
+[投稿].
+
+N/A
+
+2019
+
+**SQ. Dai**, SD. Zuo, Y. Ren.
+
+### Improving the Prediction Accuracy of Forest Aboveground Biomass Map by Integrating Machine Learning and Spatial Statistics.
+
+[投稿].
+
+N/A
+
+2019
+
+**SQ. Dai**, XM. Zheng, SD. Zuo, Y. Ren.
+
+### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
+
+[返修].
+
+N/A
+
+2019
+
+SD. Zuo, **SQ. Dai**, Y. Ren.
+
+### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
+
+[返修].
+
+N/A
+
+2019
+
+Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng.
+
+出版物-专利 {data-icon=file}
+--------------------------------------------------------------------------------
+###  一种预测大面积亚热带森林生物量的混合效应模型.
+
+[实审].
+
+N/A
+
+2018
+
+陈奇, 任引, 郑小曼, 左舒翟, **戴劭勍**.
+
+奖励&荣誉{data-icon=suitcase}
+--------------------------------------------------------------------------------
+### 中国生态学学会优秀研究生科研创新作品.
+
+中国生态学会
+
+中国
+
+2019.01
+
+### 2018年硕士国家奖学金.
+
+中国教育部
+
+中国
+
+2018.11
+
+### 第二届大数据支持空间规划与设计竞赛全国三等奖
+
+中国城市科学研究会城市大数据专业委员会
+
+中国
+
+2018.10
+
+### 'Applied Energy'2018年暑期学校结业证书
+
+The Applied Energy Innovation Institute, 清华大学地球系统科学系, China Emission Accounts & Datasets(CEADs)
+
+中国北京
+
+2018.07
+
+### 2017-2018学年中国科学院大学三好学生
+
+中国科学院大学
+
+中国北京
+
+2018.06
+
+### 中国科学院城市环境研究所二等奖学金
+
+中国科学院城市环境研究所
+
+中国厦门
+
+2018.06
+
+### 中国科学院城市环境研究所一等学业奖学金
+
+中国科学院城市环境研究所
+
+中国厦门
+
+2018.06
+
+### 第五届'共享杯'大学生科技资源共享服务创新大赛全国优秀奖
+
+国家科技基础条件平台中心
+
+中国
+
+2018.03
+
+### 第十五届用户大会'优秀志愿者'
+
+易智瑞(中国)信息技术有限公司
+
+中国
+
+2017.09
+
+### 2016-2017学年中国科学院大学三好学生
+
+中国科学院大学
+
+中国北京
+
+2017.06
+
+### 2015年Esri杯全国大学生GIS开发竞赛3维建模与设计组全国优胜奖
+
+中国测绘学会,易智瑞(中国)信息技术有限公司
+
+中国
+
+2015.11
+
+### 2014-2015学年福建师范大学科技创新奖学金
+
+福建师范大学
+
+中国福州
+
+2015.11
+
+### 第十四届'挑战杯'全国大学生课外学术科技作品竞赛'智慧城市'专项赛全国三等奖
+
+共青团中央, 中国科协, 教育部, 全国学联
+
+中国
+
+2015.07
+
+### 福建师范大学首届'年度学生人物'提名奖与科技创新奖
+
+福建师范大学
+
+中国福州
+
+2015.05
+
+### 福建师范大学第九届“挑战杯”全国大学生课外学术科技作品竞赛优秀奖
+
+福建师范大学
+
+中国福州
+
+2015.03
+
+### 2013-2014学年福建师范大学科技创新奖学金
+
+福建师范大学
+
+中国福州
+
+2014.11
+
+### MathorCup2014全球大学生数学建模竞赛全国三等奖
+
+中国优选法统筹法与经济数学研究会
+
+中国
+
+2014.07
+
+### 2013-2014学年福建师范大学'优秀学生社团干部'
+
+福建师范大学
+
+中国福州
+
+2014.05
+
+### 2013-2014学年福建师范大学地理科学学院'优秀共青团员干部'
+
+福建师范大学地理科学学院
+
+中国福州
+
+2014.05
+
+### 2012-2013学年福建师范大学地理科学学院'优秀共青团员干部'
+
+福建师范大学地理科学学院
+
+中国福州
+
+2013.05
+
+社会兼职 & 学术活动 {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### 志愿者
+
+微信公众号"一览众山小 可持续城市与交通"
+
+N/A
+
+2015-
+
+### 会员
+
+国际景观生态学会中国分会(IALE-China)
+
+N/A
+
+2017-
+
+### 志愿者
+
+拜客绿色出行
+
+N/A
+
+2016-2017
+
+### 创刊人,主编,副主编,主编助理
+
+青年地理学刊
+
+N/A
+
+2013-2017
+
+科研项目 {data-icon=building-o}
+--------------------------------------------------------------------------------
+### 基于GIS和多源遥感数据的福建省台风灾害评价指数构建
+
+数字福建自然灾害监测大数据研究所开放基金(NDMBD2018001), **Investigator**.
+
+N/A
+
+2018-2019
+
+### 长三角城市群生态安全保障关键技术研究与集成示范
+
+国家重点研发计划(2016YFC0502704), **Investigator**.
+
+N/A
+
+2016-2020
+
+### 基于ETKF-3DVAR混合同化的桉树人工林碳固定尺度扩展研究
+
+国家自然科学基金面上项目(31470578), **Investigator**.
+
+N/A
+
+2015-2018
+
+### 基于空间错位理论的福建省旅游业发展时空差异研究
+
+福建师范大学大学生创新创业训练计划(创新训练类)项目(cxxl-2015137), **Investigator**.
+
+N/A
+
+2015-2016
+
+### 基于GIS的福州市仓山区医疗设施空间布局优化评价
+
+福建师范大学大学生创新创业训练计划(创新训练类)项目(cxxl-2015146), **Investigator**.
+
+N/A
+
+2015-2016
+
+### 地震灾害下高校人员疏散及避难安置空间优化模型研究
+
+福建师范大学大学生创新创业训练计划(创新训练类)项目(cxxl-2014137), **PI**.
+
+N/A
+
+2014-2015
+
+汇报 {data-icon=comment}
+--------------------------------------------------------------------------------
+### 地理要素的尺度,分区效应,可变面积单元问题与空间统计的挑战
+
+第十一届中国R语言会议
+
+中国北京,人民大学
+
+2018.05
+
+### High-Resolution Mapping of Direct CO<SUB>2</SUB> Emissions and Uncertainties at the Urban Scale
+
+13th International Symposium on Spatial Accuracy Assessment in Natural Resources and Environmental Sciences(Spatial Accuracy 2018)
+
+中国北京,国家会议中心
+
+2018.05
+
+### 城市形态的PM2.5环境效应——以京津冀城市群为例}{第九届中国景观生态学学术研讨会
+
+第九届中国景观生态学学术研讨会
+
+中国广州,三寓宾馆
+
+2017.11
+
+### 基于InVEST与环境物联网的城市森林生态服务功能评估平台
+
+第二届城市环境长期观测与可持续发展研讨会
+
+中国上海,上海师范大学
+
+2017.09
+
+### 城市步行环境的犯罪地理分析
+
+时空间行为与城市社会规划研究暨第十二次空间行为与规划研讨会
+
+中国北京,北京联合大学
+
+2016.11
+
+### Transportation Planning of Smart City on the Basis of Data Augmentation Design Under the Perspective of Humanism: A Case Study of Fuzhou's Cangshan District
+
+10th annual conference of International Association of China Planning
+
+中国北京,北京大学
+
+2016.07
+
+人生格言 {data-icon=file}
+--------------------------------------------------------------------------
+#### 天道酬勤
+
+壁报 {data-icon=image}
+--------------------------------------------------------------------------------
+### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution
+
+2017 AGU Fall Meeting
+
+New Orleans, LA, USA
+
+2017.12
+
+### 不同分辨率的城市碳排放空间分布与城市空间形态景观破碎化之间的关系
+
+第九届现代生态学讲座
+
+中国上海
+
+2017.05
+
+### The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City
+
+2016 International Low Impact Development Conference
+
+中国北京,国家会议中心
+
+2016.06
