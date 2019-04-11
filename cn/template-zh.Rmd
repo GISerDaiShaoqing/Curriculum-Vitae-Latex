@@ -19,10 +19,10 @@ Aside
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-mobile"></i> +86 0592-6190679
-- <i class="fa fa-github"></i> [github.com/GISerDaiShaoqing](https://github.com/GISerDaiShaoqing)
+- <i class="fa fa-github"></i> [github.com/DaiShaoqing](https://github.com/GISerDaiShaoqing)
 - <i class="fa fa-envelope"></i> sqdai@iue.ac.cn
 - <i class="fa fa-globe"></i> [homepage](http://gisersqdai.top/mycv/)
-- <i class="fa fa-map"></i> 中国厦门市集美大道1799号, 361021
+- <i class="fa fa-map"></i> 中国厦门市集美大道1799号
 - <i class="fa fa-building"></i> 中国科学院城市环境研究所
 - 如果有什么需要,请通过邮件联系我.
 
@@ -174,6 +174,16 @@ N/A
 
 叶琴, 曾刚, **戴劭勍**, 王丰龙.
 
+### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution.
+
+American Geophysical Union, Fall Meeting 2017, abstract GC21G-1007.
+
+N/A
+
+2017
+
+SD. Zuo, **SQ. Dai**, Y. Ren, ZW. Yu
+
 ### Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.
 
 Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI].
@@ -196,6 +206,15 @@ N/A
 
 出版物-著作章节 {data-icon=file}
 --------------------------------------------------------------------------------
+### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale.
+Advances in Quantitative Remote Sensing in China–In Memory of Prof. Xiaowen Li. 316-332.
+
+N/A
+
+2019
+
+GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+
 ### Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China.
 
 International Low Impact Development Conference China 2016: LID Applications in Sponge City Projects. 2017, 251-260. doi:10.1061/9780784481042.028. [EI].
@@ -205,11 +224,6 @@ N/A
 2017
 
 **SQ. Dai**, JJ. Li, SD. Zuo, Y. Ren, HX. Jiang.
-
-语言 {data-icon=comments-o}
---------------------------------------------------------------------------------
-#### Chinese:母语  
-#### English:第一外语
 
 出版物-投稿/返修论文 {data-icon=book}
 --------------------------------------------------------------------------------
@@ -562,10 +576,6 @@ N/A
 
 2016.07
 
-人生格言 {data-icon=file}
---------------------------------------------------------------------------
-#### 天道酬勤
-
 壁报 {data-icon=image}
 --------------------------------------------------------------------------------
 ### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution
@@ -591,3 +601,8 @@ New Orleans, LA, USA
 中国北京,国家会议中心
 
 2016.06
+
+语言 {data-icon=comments-o}
+--------------------------------------------------------------------------------
+#### Chinese:母语  
+#### English:第一外语
