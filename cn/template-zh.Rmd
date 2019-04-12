@@ -34,7 +34,7 @@ Aside
 
 - **编程**: CGA, Python, Fortran, R, Shell, LaTeX, Makrdown, Github.
 
-- **专业知识**: QGIS, ArcGIS, ENVI, Erdas Image, PostGIS, City Engine.
+- **专业软件**: QGIS, ArcGIS, ENVI, Erdas Image, PostGIS, City Engine.
 
 
 Disclaimer {#disclaimer}
@@ -113,6 +113,26 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
+
+Applied Energy. [接收]. [SCI, IF = 7.900]. 
+
+N/A
+
+2019
+
+Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng.
+
+### 气候和土地利用/覆被变化对宁波地区生态系统产水服务的影响.
+
+环境科学学报. [接收]. [CSCD, 复合影响因子=2.544]. 
+
+N/A
+
+2019
+
+窦攀烽, 左舒翟, 任引, **戴劭勍**, 云国梁
+
 
 ### PM2.5 spatiotemporal evolution and drivers in the Yangtze River Delta between 2005 and 2015.
 
@@ -257,16 +277,6 @@ N/A
 
 SD. Zuo, **SQ. Dai**, Y. Ren.
 
-### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
-
-[返修].
-
-N/A
-
-2019
-
-Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng.
-
 出版物-专利 {data-icon=file}
 --------------------------------------------------------------------------------
 ###  一种预测大面积亚热带森林生物量的混合效应模型.
@@ -393,7 +403,7 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 2015.05
 
-### 福建师范大学第九届“挑战杯”全国大学生课外学术科技作品竞赛优秀奖
+### 福建师范大学第九届“挑战杯”大学生课外学术科技作品竞赛优秀奖
 
 福建师范大学
 
@@ -544,7 +554,7 @@ N/A
 
 2018.05
 
-### 城市形态的PM2.5环境效应——以京津冀城市群为例}{第九届中国景观生态学学术研讨会
+### 城市形态的PM2.5环境效应——以京津冀城市群为例
 
 第九届中国景观生态学学术研讨会
 

@@ -6,8 +6,8 @@ Reference websites include https://www.xiangsun.org/tex/notes-on-moderncv#i-5 & 
 
 Preview my CV [here](cv.pdf).
 
-Preview my Chinese CV [here](cn/template_zh.pdf).
+Preview my Chinese CV [here](cnlatex/template_zh.pdf).
 
-[html version](http://gisersqdai.top/Curriculum-Vitae-Latex)
+[html version cv chinese](http://gisersqdai.top/mycv/files/template-zh.html)
 
-pdfLaTex+MakeIndex+BibTex
+XeLaTex
