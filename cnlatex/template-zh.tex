@@ -30,10 +30,17 @@
 \usepackage{xeCJK}
 %\setmainfont{Minion Pro}
 %\setsansfont{Myriad Pro}
-\setmonofont{Courier New}
+%\setmonofont{Courier New}
 \setCJKmainfont{SimSun}
 \setCJKsansfont{KaiTi}
 \setCJKmonofont{SimHei}
+%\setCJKmainfont[BoldFont = STZhongsong, ItalicFont = STKaiti]{STSong}
+\setCJKfamilyfont{zhsong}[AutoFakeBold = {2.17}]{SimSun}
+\newcommand{\songti}{\CJKfamily{zhsong}}
+\setCJKfamilyfont{zhsongx}[FakeSlant = 0.2]{SimSun}
+\newcommand{\songtix}{\CJKfamily{zhsongx}}
+\setCJKfamilyfont{zhsongsq}[AutoFakeBold = {2.17}]{SimHei}
+\newcommand{\heiti}{\CJKfamily{zhsongsq}}
 
 % Nice and fancy underlines
 \RequirePackage[normalem]{ulem}
@@ -45,8 +52,10 @@
 \newcommand{\mycomment}[1]{\cvitem{}{\small{#1}}}
 \newcommand{\mycvitemcomment}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\small{#3}}}
 \newcommand{\mycvitemac}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\textbf{#3}}}
+\newcommand{\mycvitemacl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\textbf{#3}}}
 \newcommand{\mycvitemEDU}[8]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}, {#4}\vfill{#5}\vfill{毕业论文:}\textit{#6}\vfill{专业:}{#7}\hfill\faMapMarker\ {#8}}}
 \newcommand{\mycvitemPP}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\faMapMarker\ {#3}}}
+\newcommand{\mycvitemPPl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\faMapMarker\ {#3}}}
 \newcommand{\mycvitemXP}[4]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}\vfill\hfill\faMapMarker\ {#4}}}
 
 % Identifying information
