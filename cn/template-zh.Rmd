@@ -113,16 +113,6 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
-### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
-
-Applied Energy. [接收]. [SCI, IF = 7.900]. 
-
-N/A
-
-2019
-
-Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng.
-
 ### 气候和土地利用/覆被变化对宁波地区生态系统产水服务的影响.
 
 环境科学学报. [接收]. [CSCD, 复合影响因子=2.544]. 
@@ -133,6 +123,15 @@ N/A
 
 窦攀烽, 左舒翟, 任引, **戴劭勍**, 云国梁
 
+### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
+
+Applied Energy. 2019, 247, 254-269. doi:10.1016/j.apenergy.2019.04.005. [SCI, IF = 7.900]. 
+
+N/A
+
+2019
+
+Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng.
 
 ### PM2.5 spatiotemporal evolution and drivers in the Yangtze River Delta between 2005 and 2015.
 
