@@ -75,7 +75,7 @@ Main
 
 2016 - 2019
 
-毕业论文: 耦合生态过程模型与排放清单的碳源汇制图(导师：任引 研究员)
+毕业论文: 耦合生态过程模型与排放清单的碳源汇制图研究(导师：任引 研究员)
 
 研究兴趣 {data-icon=heart-o}
 --------------------------------------------------------------------------------
@@ -193,16 +193,6 @@ N/A
 
 叶琴, 曾刚, **戴劭勍**, 王丰龙.
 
-### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution.
-
-American Geophysical Union, Fall Meeting 2017, abstract GC21G-1007.
-
-N/A
-
-2017
-
-SD. Zuo, **SQ. Dai**, Y. Ren, ZW. Yu
-
 ### Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.
 
 Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI].
@@ -244,9 +234,40 @@ N/A
 
 **SQ. Dai**, JJ. Li, SD. Zuo, Y. Ren, HX. Jiang.
 
-出版物-投稿/返修论文 {data-icon=book}
+出版物-会议论文 {data-icon=file}
 --------------------------------------------------------------------------------
 ### High-resolution mapping of direct CO<SUB>2</SUB> emissions and uncertainties at the urban scale.
+Proceedings of Spatial Accuracy 2018. 88-90. [EI]
+
+N/A
+
+2018
+
+**SQ. Dai**, SD. Zuo, Y. Ren.
+
+### Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics.
+
+Proceedings of Spatial Accuracy 2018. 80-83. [EI]
+
+N/A
+
+2018
+
+**SQ. Dai**, XM. Zheng, SD. Zuo, Y. Ren.
+
+### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution.
+
+American Geophysical Union, Fall Meeting 2017, abstract GC21G-1007.
+
+N/A
+
+2017
+
+SD. Zuo, **SQ. Dai**, Y. Ren, ZW. Yu
+
+出版物-投稿/返修论文 {data-icon=book}
+--------------------------------------------------------------------------------
+### A theoretical framework for uncertainty analysis of CO<SUB>2</SUB> emissions gridded maps..
 
 [投稿].
 
@@ -256,15 +277,15 @@ N/A
 
 **SQ. Dai**, SD. Zuo, Y. Ren.
 
-### Improving the Prediction Accuracy of Forest Aboveground Biomass Map by Integrating Machine Learning and Spatial Statistics.
+### Improving non-representative-sample prediction of forest aboveground biomass maps: A combined machine learning and spatial statistical approach.
 
-[投稿].
+[审稿].
 
 N/A
 
 2019
 
-**SQ. Dai**, XM. Zheng, SD. Zuo, Y. Ren.
+**SQ. Dai**, XM. Zheng, L. Gao, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
 
 ### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
 
@@ -278,6 +299,17 @@ SD. Zuo, **SQ. Dai**, Y. Ren.
 
 出版物-专利 {data-icon=file}
 --------------------------------------------------------------------------------
+###  一种多源数据融合的森林资源清查生物量估算模型.
+
+[受理].
+
+N/A
+
+2019
+
+任引, **戴劭勍**, 左舒翟, 郑小曼.
+
+
 ###  一种预测大面积亚热带森林生物量的混合效应模型.
 
 [实审].
@@ -288,8 +320,47 @@ N/A
 
 陈奇, 任引, 郑小曼, 左舒翟, **戴劭勍**.
 
+出版物-软件著作权 {data-icon=file}
+--------------------------------------------------------------------------------
+###  基于环境物联网与 InVEST 的水安全监测系统. V1.0.
+
+[受理号:2018sr745897].
+
+N/A
+
+2019
+
+
+
+
+###  基于环境物联网数据的水源涵养监测系统.
+
+[受理号：2018sr745897].
+
+N/A
+
+2018
+
+
+
 奖励&荣誉{data-icon=suitcase}
 --------------------------------------------------------------------------------
+### 永清环保奖学金二等奖学金.
+
+永清环保集团
+
+中国
+
+2019.06
+
+### 中国科学院城市环境研究所一等奖学金
+
+中国科学院城市环境研究所
+
+中国厦门
+
+2019.06
+
 ### 中国生态学学会优秀研究生科研创新作品.
 
 中国生态学会
