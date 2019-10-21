@@ -113,6 +113,16 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
+
+Journal of Cleaner Production. 2019, 接收. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=6.395]. 
+
+N/A
+
+2019
+
+SD. Zuo, **SQ. Dai**, Y. Ren.
+
 ### 气候和土地利用/覆被变化对宁波地区生态系统产水服务的影响.
 
 环境科学学报. 2019, 39(7), 2398-2409. doi:10.13671/j.hjkxxb.2019.0122. [CSCD, 复合影响因子=2.544]. 
@@ -267,9 +277,9 @@ SD. Zuo, **SQ. Dai**, Y. Ren, ZW. Yu
 
 出版物-投稿/返修论文 {data-icon=book}
 --------------------------------------------------------------------------------
-### A theoretical framework for uncertainty analysis of CO<SUB>2</SUB> emissions gridded maps..
+###  A framework for uncertainty propagation in gridded maps of CO<SUB>2</SUB> emissions: a case study of Jinjiang city, China..
 
-[返修].
+Scientific Reports. [审稿].
 
 N/A
 
@@ -277,9 +287,9 @@ N/A
 
 **SQ. Dai**, SD. Zuo, Y. Ren.
 
-### Improving non-representative-sample prediction of forest aboveground biomass maps: A combined machine learning and spatial statistical approach.
+### Improving prediction of forest aboveground biomass maps: A combined approach of machine learning with spatial statistical model.
 
-[审稿].
+Biogeosciences. [审稿].
 
 N/A
 
@@ -287,21 +297,41 @@ N/A
 
 **SQ. Dai**, XM. Zheng, L. Gao, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
 
-### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
+### A spatial database of CO<SUB>2</SUB> emissions and urban form fragmentation for the low carbon urban system in Jinjiang city, China.
 
-[审稿].
+Data in Brief. [审稿].
 
 N/A
 
 2019
 
-SD. Zuo, **SQ. Dai**, Y. Ren.
+**SQ. Dai**, SD. Zuo, Y. Ren.
+
+### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
+
+Journal of Hydrology. [审稿]
+
+N/A
+
+2019
+
+PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
+
+### Spatio-temporal distribution of syntrophs in paddy soils from Southern China.
+
+Geoderma. [审稿]
+
+N/A
+
+2019
+
+XF. Pan, H. Li, XR. Yang, JQ. Su, **SQ. Dai**, CX. Li, GJ. Cai, GF. Zhu.
 
 出版物-专利 {data-icon=file}
 --------------------------------------------------------------------------------
 ###  一种多源数据融合的森林资源清查生物量估算模型.
 
-[受理].
+[实审].
 
 N/A
 
