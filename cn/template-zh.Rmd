@@ -52,7 +52,7 @@ Main
 戴劭勍 {#title}
 --------------------------------------------------------------------------------
 
-### 生态学硕士研究生
+### ITC在读博士
 
 教育经历 {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -76,6 +76,16 @@ Main
 2016 - 2019
 
 毕业论文: 耦合生态过程模型与排放清单的碳源汇制图研究(导师：任引 研究员)
+
+### 特温特大学, 地理信息与对地观测学院（ITC）
+
+空间数据获取与质量博士
+
+荷兰恩斯赫德
+
+2019 - 现在
+
+毕业论文: 空间生命历程流行病学与健康地理(导师：Alfred Stein 教授与贾鹏 助理教授)
 
 研究兴趣 {data-icon=heart-o}
 --------------------------------------------------------------------------------
@@ -111,270 +121,18 @@ N/A
 
 2018
 
-出版物-期刊论文 {data-icon=file}
---------------------------------------------------------------------------------
-### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
-
-Journal of Cleaner Production. 2019, 接收. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=6.395]. 
-
-N/A
-
-2019
-
-SD. Zuo, **SQ. Dai**, Y. Ren.
-
-### 气候和土地利用/覆被变化对宁波地区生态系统产水服务的影响.
-
-环境科学学报. 2019, 39(7), 2398-2409. doi:10.13671/j.hjkxxb.2019.0122. [CSCD, 复合影响因子=2.544]. 
-
-N/A
-
-2019
-
-窦攀烽, 左舒翟, 任引, **戴劭勍**, 云国梁
-
-### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
-
-Applied Energy. 2019, 247, 254-269. doi:10.1016/j.apenergy.2019.04.005. [SCI, IF = 8.426]. 
-
-N/A
-
-2019
-
-Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng.
-
-### PM2.5 spatiotemporal evolution and drivers in the Yangtze River Delta between 2005 and 2015.
-
-Atmosphere. 2019, 10(2), 55-69. doi:10.3390/atmos10020055. [SCI, IF = 2.046].
-
-N/A
-
-2019
-
-GL. Yun, YR. He, YT. Jiang, PF. Dou, **SQ. Dai**.
-
-### Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models.
-
-Remote Sensing. 2018, 10(11), 1814-1832. doi:10.3390/rs10111814. [SCI, IF = 4.118].
-
-N/A
-
-2018 
-
-SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
-
-### Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.
-
-International Journal of Environmental Research and Public Health. 2018, 15(10), 2175-2198. doi:10.3390/ijerph15102175. [SCI, IF = 2.468].
-
-N/A
-
-2018 
-
-SD. Zuo, **SQ. Dai**, YY. Li, JF. Tang, Y. Ren.
-
-### H市城区步行环境对两抢一盗警情的影响.
-
-地理科学. 2018, 38(8), 1235-1244. doi:10.13249/j.cnki.sgs.2018.08.005. [CSCD, 复合影响因子=3.964].
-
-N/A
-
-2018 
-
-**戴劭勍**, 江辉仙, 李佳佳, 苏娴, 吴娟, 任引.
-
-### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale.
-
-Remote Sensing. 2018, 10(4), 521-538. doi:10.3390/rs10040521. [SCI, IF = 4.118].
-
-N/A
-
-2018 
-
-GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
-
-### 不同环境规制工具对中国节能减排技术创新的影响——基于285个地级市面板数据.
-
-中国人口·资源与环境. 2018, 210(02), 115-122. doi:10.12062/cpre.20170915. [CSCD, 复合影响因子=5.211].
-
-N/A
-
-2018 
-
-叶琴, 曾刚, **戴劭勍**, 王丰龙.
-
-### Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.
-
-Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI].
-
-N/A
-
-2017
-
-Q. Ye, **SQ. Dai**, G. Zeng.
- 
-### 基于政府大数据的北京城市空间发展模式分析.
-
-地理信息世界. 2017, 23(3), 20-26. doi:10.3969/j.issn.1672-1586.2016.03.004. [JST, 复合影响因子=0.935].
-
-N/A
-
-2016
-
-李苗裔, **戴劭勍**, 王静远, 沈振江.
-
-出版物-著作章节 {data-icon=file}
---------------------------------------------------------------------------------
-### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale.
-Advances in Quantitative Remote Sensing in China–In Memory of Prof. Xiaowen Li. 316-332.
-
-N/A
-
-2019
-
-GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
-
-### Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China.
-
-International Low Impact Development Conference China 2016: LID Applications in Sponge City Projects. 2017, 251-260. doi:10.1061/9780784481042.028. [EI].
-
-N/A
-
-2017
-
-**SQ. Dai**, JJ. Li, SD. Zuo, Y. Ren, HX. Jiang.
-
-出版物-会议论文 {data-icon=file}
---------------------------------------------------------------------------------
-### High-resolution mapping of direct CO<SUB>2</SUB> emissions and uncertainties at the urban scale.
-Proceedings of Spatial Accuracy 2018. 88-90. [EI]
-
-N/A
-
-2018
-
-**SQ. Dai**, SD. Zuo, Y. Ren.
-
-### Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics.
-
-Proceedings of Spatial Accuracy 2018. 80-83. [EI]
-
-N/A
-
-2018
-
-**SQ. Dai**, XM. Zheng, SD. Zuo, Y. Ren.
-
-### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution.
-
-American Geophysical Union, Fall Meeting 2017, abstract GC21G-1007.
-
-N/A
-
-2017
-
-SD. Zuo, **SQ. Dai**, Y. Ren, ZW. Yu
-
-出版物-投稿/返修论文 {data-icon=book}
---------------------------------------------------------------------------------
-###  A framework for uncertainty propagation in gridded maps of CO<SUB>2</SUB> emissions: a case study of Jinjiang city, China..
-
-Scientific Reports. [审稿].
-
-N/A
-
-2019
-
-**SQ. Dai**, SD. Zuo, Y. Ren.
-
-### Improving prediction of forest aboveground biomass maps: A combined approach of machine learning with spatial statistical model.
-
-Biogeosciences. [审稿].
-
-N/A
-
-2019
-
-**SQ. Dai**, XM. Zheng, L. Gao, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
-
-### A spatial database of CO<SUB>2</SUB> emissions and urban form fragmentation for the low carbon urban system in Jinjiang city, China.
-
-Data in Brief. [审稿].
-
-N/A
-
-2019
-
-**SQ. Dai**, SD. Zuo, Y. Ren.
-
-### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
-
-Journal of Hydrology. [审稿]
-
-N/A
-
-2019
-
-PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
-
-### Spatio-temporal distribution of syntrophs in paddy soils from Southern China.
-
-Geoderma. [审稿]
-
-N/A
-
-2019
-
-XF. Pan, H. Li, XR. Yang, JQ. Su, **SQ. Dai**, CX. Li, GJ. Cai, GF. Zhu.
-
-出版物-专利 {data-icon=file}
---------------------------------------------------------------------------------
-###  一种多源数据融合的森林资源清查生物量估算模型.
-
-[实审].
-
-N/A
-
-2019
-
-任引, **戴劭勍**, 左舒翟, 郑小曼.
-
-
-###  一种预测大面积亚热带森林生物量的混合效应模型.
-
-[实审].
-
-N/A
-
-2018
-
-陈奇, 任引, 郑小曼, 左舒翟, **戴劭勍**.
-
-出版物-软件著作权 {data-icon=file}
---------------------------------------------------------------------------------
-###  基于环境物联网与 InVEST 的水安全监测系统. V1.0.
-
-[登记号:2019SR0517519].
-
-N/A
-
-2019
-
-
-
-
-###  基于环境物联网数据的水源涵养监测系统.
-
-[登记号：2018SR745897].
-
-N/A
-
-2018
-
-
 
 奖励&荣誉{data-icon=suitcase}
 --------------------------------------------------------------------------------
+### 2019年国家公派留学奖学金(CSC).
+
+国家留学基金委
+
+中国
+
+2019.06
+
+
 ### 永清环保奖学金二等奖学金.
 
 永清环保集团
@@ -594,6 +352,347 @@ N/A
 N/A
 
 2013-2017
+
+出版物-期刊论文 {data-icon=file}
+--------------------------------------------------------------------------------
+### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
+
+Journal of Cleaner Production. 2019, 接收. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=6.395]. 
+
+N/A
+
+2019
+
+SD. Zuo, **SQ. Dai**, Y. Ren.
+
+### 气候和土地利用/覆被变化对宁波地区生态系统产水服务的影响.
+
+环境科学学报. 2019, 39(7), 2398-2409. doi:10.13671/j.hjkxxb.2019.0122. [CSCD, 复合影响因子=2.544]. 
+
+N/A
+
+2019
+
+窦攀烽, 左舒翟, 任引, **戴劭勍**, 云国梁
+
+### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
+
+Applied Energy. 2019, 247, 254-269. doi:10.1016/j.apenergy.2019.04.005. [SCI, IF = 8.426]. 
+
+N/A
+
+2019
+
+Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng.
+
+### PM2.5 spatiotemporal evolution and drivers in the Yangtze River Delta between 2005 and 2015.
+
+Atmosphere. 2019, 10(2), 55-69. doi:10.3390/atmos10020055. [SCI, IF = 2.046].
+
+N/A
+
+2019
+
+GL. Yun, YR. He, YT. Jiang, PF. Dou, **SQ. Dai**.
+
+### Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models.
+
+Remote Sensing. 2018, 10(11), 1814-1832. doi:10.3390/rs10111814. [SCI, IF = 4.118].
+
+N/A
+
+2018 
+
+SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+
+### Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.
+
+International Journal of Environmental Research and Public Health. 2018, 15(10), 2175-2198. doi:10.3390/ijerph15102175. [SCI, IF = 2.468].
+
+N/A
+
+2018 
+
+SD. Zuo, **SQ. Dai**, YY. Li, JF. Tang, Y. Ren.
+
+### H市城区步行环境对两抢一盗警情的影响.
+
+地理科学. 2018, 38(8), 1235-1244. doi:10.13249/j.cnki.sgs.2018.08.005. [CSCD, 复合影响因子=3.964].
+
+N/A
+
+2018 
+
+**戴劭勍**, 江辉仙, 李佳佳, 苏娴, 吴娟, 任引.
+
+### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale.
+
+Remote Sensing. 2018, 10(4), 521-538. doi:10.3390/rs10040521. [SCI, IF = 4.118].
+
+N/A
+
+2018 
+
+GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+
+### 不同环境规制工具对中国节能减排技术创新的影响——基于285个地级市面板数据.
+
+中国人口·资源与环境. 2018, 210(02), 115-122. doi:10.12062/cpre.20170915. [CSCD, 复合影响因子=5.211].
+
+N/A
+
+2018 
+
+叶琴, 曾刚, **戴劭勍**, 王丰龙.
+
+### Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.
+
+Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI].
+
+N/A
+
+2017
+
+Q. Ye, **SQ. Dai**, G. Zeng.
+ 
+### 基于政府大数据的北京城市空间发展模式分析.
+
+地理信息世界. 2017, 23(3), 20-26. doi:10.3969/j.issn.1672-1586.2016.03.004. [JST, 复合影响因子=0.935].
+
+N/A
+
+2016
+
+李苗裔, **戴劭勍**, 王静远, 沈振江.
+
+出版物-著作章节 {data-icon=file}
+--------------------------------------------------------------------------------
+### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale.
+Advances in Quantitative Remote Sensing in China–In Memory of Prof. Xiaowen Li. 316-332.
+
+N/A
+
+2019
+
+GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+
+### Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China.
+
+International Low Impact Development Conference China 2016: LID Applications in Sponge City Projects. 2017, 251-260. doi:10.1061/9780784481042.028. [EI].
+
+N/A
+
+2017
+
+**SQ. Dai**, JJ. Li, SD. Zuo, Y. Ren, HX. Jiang.
+
+出版物-投稿/返修论文 {data-icon=book}
+--------------------------------------------------------------------------------
+###  A framework for uncertainty propagation in gridded maps of CO<SUB>2</SUB> emissions: a case study of Jinjiang city, China..
+
+Scientific Reports. [审稿].
+
+N/A
+
+2019
+
+**SQ. Dai**, SD. Zuo, Y. Ren.
+
+### Improving prediction of forest aboveground biomass maps: A combined approach of machine learning with spatial statistical model.
+
+Biogeosciences. [审稿].
+
+N/A
+
+2019
+
+**SQ. Dai**, XM. Zheng, L. Gao, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
+
+### A spatial database of CO<SUB>2</SUB> emissions and urban form fragmentation for the low carbon urban system in Jinjiang city, China.
+
+Data in Brief. [审稿].
+
+N/A
+
+2019
+
+**SQ. Dai**, SD. Zuo, Y. Ren.
+
+### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
+
+Journal of Hydrology. [审稿]
+
+N/A
+
+2019
+
+PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
+
+### Spatio-temporal distribution of syntrophs in paddy soils from Southern China.
+
+Geoderma. [审稿]
+
+N/A
+
+2019
+
+XF. Pan, H. Li, XR. Yang, JQ. Su, **SQ. Dai**, CX. Li, GJ. Cai, GF. Zhu.
+
+出版物-专利 {data-icon=file}
+--------------------------------------------------------------------------------
+###  一种多源数据融合的森林资源清查生物量估算模型.
+
+[实审].
+
+N/A
+
+2019
+
+任引, **戴劭勍**, 左舒翟, 郑小曼.
+
+
+###  一种预测大面积亚热带森林生物量的混合效应模型.
+
+[实审].
+
+N/A
+
+2018
+
+陈奇, 任引, 郑小曼, 左舒翟, **戴劭勍**.
+
+出版物-软件著作权 {data-icon=file}
+--------------------------------------------------------------------------------
+###  基于环境物联网与 InVEST 的水安全监测系统. V1.0.
+
+[登记号:2019SR0517519].
+
+N/A
+
+2019
+
+
+
+
+###  基于环境物联网数据的水源涵养监测系统.
+
+[登记号：2018SR745897].
+
+N/A
+
+2018
+
+出版物-会议论文 & 摘要 {data-icon=file}
+--------------------------------------------------------------------------------
+### The night light uncovers city’s weight—A case study on estimating construction materials in Fuzhou, China.
+10th International Conference on Industrial Ecology, abstract 320
+
+N/A
+
+2019
+
+JJ. Li, YP. Liu, **SQ. Dai**, KY. Xiang, HX. Jiang, WQ. Chen.
+
+### 地理要素的尺度,分区效应,可变面积单元问题与空间统计的挑战
+
+第十一届中国R语言会议, abstract.
+
+2018
+
+N/A
+
+**戴劭勍**
+
+### High-resolution mapping of direct CO<SUB>2</SUB> emissions and uncertainties at the urban scale.
+Proceedings of Spatial Accuracy 2018. 88-90. [EI]
+
+N/A
+
+2018
+
+**SQ. Dai**, SD. Zuo, Y. Ren.
+
+### Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics.
+
+Proceedings of Spatial Accuracy 2018. 80-83. [EI]
+
+N/A
+
+2018
+
+**SQ. Dai**, XM. Zheng, SD. Zuo, Y. Ren.
+
+### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution.
+
+American Geophysical Union, Fall Meeting 2017, abstract GC21G-1007.
+
+N/A
+
+2017
+
+SD. Zuo, **SQ. Dai**, Y. Ren, ZW. Yu
+
+### 城市形态的PM2.5环境效应——以京津冀城市群为例
+
+第九届中国景观生态学学术研讨会, abstract.
+
+2017
+
+N/A
+
+**戴劭勍**, 任引, 左舒翟, 代敏, 陈盼, 王朝, 徐凌星, 祁建伟, 云国梁.
+
+
+### 不同环境规制工具对节能减排技术创新的影响——基于中国285个地级市的面板数据
+
+2017年中国地理学会经济地理专业委员会学术年会论文摘要集, abstract.
+
+2017
+
+N/A
+
+叶琴, 曾刚, **戴劭勍**, 王丰龙.
+
+### 不同分辨率的城市碳排放空间分布与城市空间形态景观破碎化之间的关系
+
+第九届现代生态学讲座, abstract.
+
+2017
+
+N/A
+
+**戴劭勍**, 任引, 左舒翟.
+
+### 基于WalkScore与CGT模型的环境犯罪学分析：以H市为例
+
+时空间行为与城市社会规划研究暨第十二次空间行为与规划研讨会, abstract.
+
+2016
+
+N/A
+
+**戴劭勍**, 江辉仙, 李佳佳, 苏娴, 吴娟, 陈焜.
+
+### Transportation Planning of Smart City on the Basis of Data Augmentation Design Under the Perspective of Humanism: A Case Study of Fuzhou's Cangshan District.
+
+10th annual conference of International Association of China Planning, abstract 1813.
+
+2016
+
+N/A
+
+**SQ. Dai**, HX. Jiang, JJ. Li, QW. Xu.
+
+### The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City.
+
+2016 International Low Impact Development Conference, paper 391.
+
+2016
+
+N/A
+
+**SQ. Dai**, HX. Jiang, JJ. Li.
+
 
 科研项目 {data-icon=building-o}
 --------------------------------------------------------------------------------
