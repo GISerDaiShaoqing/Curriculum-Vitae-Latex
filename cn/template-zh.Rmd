@@ -121,6 +121,14 @@ N/A
 
 2018
 
+### rgeoda
+
+rgeoda 是一个基于 libgeoda 和 GeoDa 的空间数据分析 R 包 (开源贡献者)。
+
+N/A
+
+2019
+
 
 奖励&荣誉{data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -315,6 +323,14 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 ### 成员
 
 空间生命历程流行病学研究中心
+
+N/A
+
+2019-
+
+### 成员
+
+GeoDa Center, rgeoda, libgeoda Github 项目组
 
 N/A
 
