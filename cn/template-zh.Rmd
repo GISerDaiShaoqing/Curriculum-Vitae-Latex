@@ -22,8 +22,8 @@ Aside
 - <i class="fa fa-github"></i> [github.com/DaiShaoqing](https://github.com/GISerDaiShaoqing)
 - <i class="fa fa-envelope"></i> dsq1993qingge@163.com
 - <i class="fa fa-globe"></i> [homepage](http://gisersqdai.top/mycv/)
-- <i class="fa fa-map"></i> 中国厦门市集美大道1799号
-- <i class="fa fa-building"></i> 中国科学院城市环境研究所
+- <i class="fa fa-map"></i> 荷兰恩斯赫德亨格洛大街99号，7500 AE
+- <i class="fa fa-building"></i> 荷兰特温特大学地理信息与对地观测学院
 - 如果有什么需要,请通过邮件联系我.
 
 
@@ -52,7 +52,7 @@ Main
 戴劭勍 {#title}
 --------------------------------------------------------------------------------
 
-### ITC在读博士
+### 博士研究生
 
 教育经历 {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -83,7 +83,7 @@ Main
 
 荷兰恩斯赫德
 
-2019 - 现在
+2020 - 现在
 
 毕业论文: 空间生命历程流行病学与健康地理(导师：Alfred Stein 教授与贾鹏 助理教授)
 
