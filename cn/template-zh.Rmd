@@ -23,7 +23,7 @@ Aside
 - <i class="fa fa-envelope"></i> dsq1993qingge@163.com
 - <i class="fa fa-globe"></i> [homepage](http://gisersqdai.top/mycv/)
 - <i class="fa fa-map"></i> 荷兰恩斯赫德亨格洛大街99号，7500 AE
-- <i class="fa fa-building"></i> 荷兰特温特大学地理信息与对地观测学院
+- <i class="fa fa-building"></i> 荷兰特温特大学地理信息与对地观测学院对地观测科学系
 - 如果有什么需要,请通过邮件联系我.
 
 
@@ -63,7 +63,7 @@ Main
 
 中国福州
 
-2012 - 2016
+2012.09 - 2016.06
 
 毕业论文: 基于BIM与GIS的智慧校园规划选址与设计——以福建师范大学为例(导师：江辉仙 副教授)
 
@@ -73,7 +73,7 @@ Main
 
 中国厦门
 
-2016 - 2019
+2016.09 - 2019.06
 
 毕业论文: 耦合生态过程模型与排放清单的碳源汇制图研究(导师：任引 研究员)
 
@@ -83,13 +83,13 @@ Main
 
 荷兰恩斯赫德
 
-2020 - 现在
+2020.01 - 至今
 
 毕业论文: 空间生命历程流行病学与健康地理(导师：Alfred Stein 教授与贾鹏 助理教授)
 
 研究兴趣 {data-icon=heart-o}
 --------------------------------------------------------------------------------
-健康地理；城市计算; 时空大数据; 生态模型与生态信息学; 生态学、GIS与RS集成;空间统计
+健康地理；空间生命历程流行病学；城市计算; 时空大数据; 生态模型与生态信息学; 生态学、GIS与RS集成;空间统计
 
 
 开发软件 {data-icon=laptop}
@@ -379,13 +379,23 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
-### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
+### A spatial database of CO<SUB>2</SUB> emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China
 
-Journal of Cleaner Production. 2019, 接收. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=6.395]. 
+Data in Brief. 2020, Accepted. doi:10.1016/j.dib.2020.105274. [Citescore=0.93]. 
 
 N/A
 
-2019
+2020
+
+**SQ. Dai**, SD. Zuo, Y. Ren.
+
+### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
+
+Journal of Cleaner Production. 2020, 244. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=6.395]. 
+
+N/A
+
+2020
 
 SD. Zuo, **SQ. Dai**, Y. Ren.
 
@@ -532,16 +542,6 @@ N/A
 
 **SQ. Dai**, XM. Zheng, L. Gao, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
 
-### A spatial database of CO<SUB>2</SUB> emissions and urban form fragmentation for the low carbon urban system in Jinjiang city, China.
-
-Data in Brief. [审稿].
-
-N/A
-
-2019
-
-**SQ. Dai**, SD. Zuo, Y. Ren.
-
 ### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
 
 Journal of Hydrology. [审稿]
@@ -561,6 +561,16 @@ N/A
 2019
 
 XF. Pan, H. Li, XR. Yang, JQ. Su, **SQ. Dai**, CX. Li, GJ. Cai, GF. Zhu.
+
+### Treatment of industrial sludge via co-pyrolysis with rice straw for biochar improvement and heavy metals immobilization.
+
+Journal of Cleaner Production. [审稿]
+
+N/A
+
+2020
+
+SY. xie, CX. Li, G.wANG, **SQ. Dai**, Y. Wang, GW. Yu.
 
 出版物-专利 {data-icon=file}
 --------------------------------------------------------------------------------
@@ -716,6 +726,18 @@ N/A
 N/A
 
 **SQ. Dai**, HX. Jiang, JJ. Li.
+
+出版物-开放数据 & 代码 {data-icon=file}
+--------------------------------------------------------------------------------
+### GISerDaiShaoqing/Urban-Carbon-Dioxide-sources-gridded-maps-and-itsdetemination-in-Jinjiang-city 0.3 (Version 0.3).
+
+[Data set]. Zenodo. http://doi.org/10.5281/zenodo.3566072.
+
+2019
+
+N/A
+
+**SQ. Dai**, SD. Zuo, Y. Ren.
 
 
 科研项目 {data-icon=building-o}
