@@ -22,7 +22,7 @@ Aside
 - <i class="fa fa-github"></i> [github.com/DaiShaoqing](https://github.com/GISerDaiShaoqing)
 - <i class="fa fa-envelope"></i> dsq1993qingge@163.com
 - <i class="fa fa-globe"></i> [homepage](http://gisersqdai.top/mycv/)
-- <i class="fa fa-map"></i> 荷兰恩斯赫德亨格洛大街99号，7500 AE
+- <i class="fa fa-map"></i> 荷兰恩斯赫德亨格洛大街99号，7514 AE
 - <i class="fa fa-building"></i> 荷兰特温特大学地理信息与对地观测学院对地观测科学系
 - 如果有什么需要,请通过邮件联系我.
 
@@ -89,7 +89,7 @@ Main
 
 研究兴趣 {data-icon=heart-o}
 --------------------------------------------------------------------------------
-健康地理；空间生命历程流行病学；城市计算; 时空大数据; 生态模型与生态信息学; 生态学、GIS与RS集成;空间统计
+健康地理；空间生命历程流行病学; 空间统计；城市计算; 时空大数据; 生态信息学
 
 
 开发软件 {data-icon=laptop}
@@ -317,7 +317,7 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 2013.05
 
-社会兼职 & 学术活动 {data-icon=suitcase}
+学术职务 & 机构 {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### 成员
@@ -376,6 +376,14 @@ N/A
 N/A
 
 2013-2017
+
+### 审稿人
+
+Data in Brief, The Journal of Open Source Software
+
+N/A
+
+2019-
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
