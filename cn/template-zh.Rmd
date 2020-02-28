@@ -30,11 +30,11 @@ Aside
 专业知识 & 技能 {#skils}
 --------------------------------------------------------------------------------
 
-- **主修课程**:地理信息科学, 遥感, 空间统计, 城市研究, 环境, 生态模型, 景观生态.
+- **主修课程**:地理信息科学, 遥感, 健康地理, 空间统计, 城市研究, 环境, 生态模型, 景观生态.
 
-- **编程**: CGA, Python, Fortran, R, Shell, LaTeX, Makrdown, Github.
+- **编程**: R, Python, CGA, Shell, LaTeX, Makrdown, Github.
 
-- **专业软件**: QGIS, ArcGIS, ENVI, Erdas Image, PostGIS, City Engine.
+- **专业软件**: ArcGIS, ENVI, Erdas Image, PostGIS, City Engine.
 
 
 Disclaimer {#disclaimer}
@@ -389,7 +389,7 @@ N/A
 --------------------------------------------------------------------------------
 ### A spatial database of CO<SUB>2</SUB> emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China
 
-Data in Brief. 2020, Accepted. doi:10.1016/j.dib.2020.105274. [Citescore=0.93]. 
+Data in Brief. 2020, 29. 105274. doi:10.1016/j.dib.2020.105274. [Citescore=0.93]. 
 
 N/A
 
@@ -399,7 +399,7 @@ N/A
 
 ### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
 
-Journal of Cleaner Production. 2020, 244. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=6.395]. 
+Journal of Cleaner Production. 2020, 244, 118659. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=6.395]. 
 
 N/A
 
@@ -528,58 +528,6 @@ N/A
 
 **SQ. Dai**, JJ. Li, SD. Zuo, Y. Ren, HX. Jiang.
 
-出版物-投稿/返修论文 {data-icon=book}
---------------------------------------------------------------------------------
-###  A framework for uncertainty propagation in gridded maps of CO<SUB>2</SUB> emissions: a case study of Jinjiang city, China..
-
-Scientific Reports. [审稿].
-
-N/A
-
-2019
-
-**SQ. Dai**, SD. Zuo, Y. Ren.
-
-### Improving prediction of forest aboveground biomass maps: A combined approach of machine learning with spatial statistical model.
-
-Biogeosciences. [审稿].
-
-N/A
-
-2019
-
-**SQ. Dai**, XM. Zheng, L. Gao, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
-
-### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
-
-Journal of Hydrology. [审稿]
-
-N/A
-
-2019
-
-PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
-
-### Spatio-temporal distribution of syntrophs in paddy soils from Southern China.
-
-Geoderma. [审稿]
-
-N/A
-
-2019
-
-XF. Pan, H. Li, XR. Yang, JQ. Su, **SQ. Dai**, CX. Li, GJ. Cai, GF. Zhu.
-
-### Treatment of industrial sludge via co-pyrolysis with rice straw for biochar improvement and heavy metals immobilization.
-
-Journal of Cleaner Production. [审稿]
-
-N/A
-
-2020
-
-SY. xie, CX. Li, G.wANG, **SQ. Dai**, Y. Wang, GW. Yu.
-
 出版物-专利 {data-icon=file}
 --------------------------------------------------------------------------------
 ###  一种多源数据融合的森林资源清查生物量估算模型.
@@ -612,8 +560,6 @@ N/A
 N/A
 
 2019
-
-
 
 
 ###  基于环境物联网数据的水源涵养监测系统.
@@ -737,15 +683,77 @@ N/A
 
 出版物-开放数据 & 代码 {data-icon=file}
 --------------------------------------------------------------------------------
-### GISerDaiShaoqing/Urban-Carbon-Dioxide-sources-gridded-maps-and-itsdetemination-in-Jinjiang-city 0.3 (Version 0.3).
+### GISerDaiShaoqing/Urban-Carbon-Dioxide-sources-gridded-maps-and-itsdetemination-in-Jinjiang-city 0.4 (Version 0.4).
 
-[Data set]. Zenodo. http://doi.org/10.5281/zenodo.3566072.
+[Data set]. Zenodo. doi:10.5281/zenodo.3566072.
 
 2019
 
 N/A
 
 **SQ. Dai**, SD. Zuo, Y. Ren.
+
+出版物-投稿/返修论文 {data-icon=book}
+--------------------------------------------------------------------------------
+###  A framework for uncertainty propagation in gridded maps of CO<SUB>2</SUB> emissions: a case study of Jinjiang city, China..
+
+Remote Sensing. [提交].
+
+N/A
+
+2020
+
+**SQ. Dai**, SD. Zuo, Y. Ren.
+
+### Improving maps of forest aboveground biomass: A combined approach using machine learning with a spatial statistical model.
+
+Biogeosciences. [审稿].
+
+N/A
+
+2020
+
+**SQ. Dai**, XM. Zheng, L. Gao, CD. Xu, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
+
+### Source Analysis of Uncertainty in Estimates of Forest Above-ground Biomass by Integrating Spatial Statistics, Machine Learning, Forest inventory Data, and Airborne LiDAR Data.
+
+Remote Sensing of Environment. [提交].
+
+N/A
+
+2020
+
+**SQ. Dai**, XM. Zheng, Q. Chen, CD. Xu, XH. Wei, Y. Ren.
+
+### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
+
+Journal of Hydrology. [审稿]
+
+N/A
+
+2020
+
+PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
+
+### Spatio-temporal distribution of syntrophs in paddy soils from Southern China.
+
+Geoderma. [审稿]
+
+N/A
+
+2020
+
+XF. Pan, H. Li, XR. Yang, JQ. Su, **SQ. Dai**, CX. Li, GJ. Cai, GF. Zhu.
+
+### Treatment of industrial sludge via co-pyrolysis with rice straw for biochar improvement and heavy metals immobilization.
+
+Journal of Cleaner Production. [审稿]
+
+N/A
+
+2020
+
+SY. xie, CX. Li, G.wANG, **SQ. Dai**, Y. Wang, GW. Yu.
 
 
 科研项目 {data-icon=building-o}
