@@ -129,6 +129,14 @@ N/A
 
 2019
 
+### COVID-19仪表盘shiny应用
+
+基于R shiny开发的COVID-19疫情仪表盘应用，https://gisersqdai.shinyapps.io/COVID19VIS/。
+
+N/A
+
+2020
+
 
 奖励&荣誉{data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -725,9 +733,19 @@ N/A
 
 **SQ. Dai**, XM. Zheng, Q. Chen, CD. Xu, XH. Wei, Y. Ren.
 
+### Commentary: Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2).
+
+Frontiers in Public Health. [审稿].
+
+N/A
+
+2020
+
+SJ. Yang, **SQ. Dai**, YL Huang, P. Jia.
+
 ### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
 
-Journal of Hydrology. [审稿]
+Journal of Hydrology. [返修]
 
 N/A
 
@@ -737,7 +755,7 @@ PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
 
 ### Spatio-temporal distribution of syntrophs in paddy soils from Southern China.
 
-Geoderma. [审稿]
+Geoderma. [返修]
 
 N/A
 
@@ -747,7 +765,7 @@ XF. Pan, H. Li, XR. Yang, JQ. Su, **SQ. Dai**, CX. Li, GJ. Cai, GF. Zhu.
 
 ### Treatment of industrial sludge via co-pyrolysis with rice straw for biochar improvement and heavy metals immobilization.
 
-Journal of Cleaner Production. [审稿]
+Journal of Cleaner Production. [返修]
 
 N/A
 
