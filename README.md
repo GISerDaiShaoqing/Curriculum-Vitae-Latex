@@ -11,3 +11,5 @@ Preview my Chinese CV [here](cnlatex/template-zh.pdf).
 [html version cv chinese](http://gisersqdai.top/mycv/template-zh.html)
 
 XeLaTex
+
+![](https://github.com/GISerDaiShaoqing/Curriculum-Vitae-Latex/blob/master/cn/qrcodeCV.png)
