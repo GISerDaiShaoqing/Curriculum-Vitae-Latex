@@ -395,6 +395,16 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### Access to bike lanes and childhood obesity: A systematic review and meta‐analysis.
+
+Obesity Reviews. 2020, 1-11. doi:10.1111/obr.13042. [SCI, IF=8.192]. 
+
+N/A
+
+2020
+
+XF. Pan, L. Zhao, JY. Luo, YH. Li, L. Zhang, T. Wu, M. Smith, **SQ. Dai**, P. Jia.
+
 ### A spatial database of CO<SUB>2</SUB> emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China
 
 Data in Brief. 2020, 29. 105274. doi:10.1016/j.dib.2020.105274. [Citescore=0.93]. 
@@ -715,7 +725,7 @@ N/A
 
 ### Improving maps of forest aboveground biomass: A combined approach using machine learning with a spatial statistical model.
 
-Biogeosciences. [审稿].
+Biogeosciences. [返修].
 
 N/A
 
@@ -755,7 +765,7 @@ PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
 
 ### Spatio-temporal distribution of syntrophs in paddy soils from Southern China.
 
-Geoderma. [返修]
+Geoderma. [提交]
 
 N/A
 
