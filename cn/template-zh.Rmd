@@ -721,7 +721,7 @@ N/A
 
 2020
 
-**SQ. Dai**, SD. Zuo, Y. Ren.
+**SQ. Dai**, SD. Zuo, CY. Lai, ZW. Yu, JJ. Li, SY. Xie, BC. Chen, Y. Ren.
 
 ### Improving maps of forest aboveground biomass: A combined approach using machine learning with a spatial statistical model.
 
