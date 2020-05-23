@@ -336,7 +336,7 @@ N/A
 
 2019-
 
-### 成员
+### 贡献者
 
 GeoDa Center, rgeoda, libgeoda Github 项目组
 
@@ -705,7 +705,7 @@ N/A
 
 [Data set]. Zenodo. doi:10.5281/zenodo.3566072.
 
-2019
+2020
 
 N/A
 
