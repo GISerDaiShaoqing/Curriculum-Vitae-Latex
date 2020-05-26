@@ -1,0 +1,215 @@
+---
+title: "Shaoqing Dai's CV"
+author: Shaoqing Dai
+date: "`r Sys.Date()`"
+params:
+  pdf_mode:
+    value: true
+output:
+  pagedown::html_resume:
+    css: ['dd_cv.css', 'resume']
+    self_contained: true
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  results='asis', 
+  echo = FALSE
+)
+
+library(magrittr) # For the pipe
+source("CV_printing_functions.R")
+
+# Read in all data and initialize a CV printer object
+CV <- create_CV_object(
+  data_location = "https://docs.google.com/spreadsheets/d/1kRdIfpCs_6YTUw3iuoy7tU9l_1mNQ_U7AXtFgrB0Qgk/edit?usp=sharing",  
+  pdf_mode = params$pdf_mode
+)
+
+```
+
+
+```{r}
+# When in pdf export mode the little dots are unaligned, so fix that with some conditional CSS.
+if(params$pdf_mode) {
+    cat("
+<style>
+:root{
+  --decorator-outer-offset-left: -6.5px;
+}
+</style>")
+}
+```
+
+
+Aside
+================================================================================
+
+```{r}
+# Build interactive network of positions colored by section
+# and connected if they occurred in the same year
+datadrivencv::build_network_logo(CV$entries_data)
+```
+
+
+```{r}
+if(params$pdf_mode){
+  cat("View this CV online with links at _nickstrayer.me/cv/_")
+} else {
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](http://gisersqdai.top/mycv/cv.pdf)")
+}
+```
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %>% print_contact_info()
+```
+
+
+
+Language Skills {#skills}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %>% print_skill_bars()
+```
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
+
+The source code is available [on GISerDaiShaoqing/Curriculum-Vitae-Latex](https://github.com/GISerDaiShaoqing/Curriculum-Vitae-Latex).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Shaoqing Dai {#title}
+--------------------------------------------------------------------------------
+
+```{r}
+# Note the special double pipe so we modify the CV object in place
+CV %<>% print_text_block("intro") 
+```
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('education')
+```
+
+Research Interests {data-icon=heart-o}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('research_interest')
+```
+
+Developed Open Software {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('software')
+```
+
+Awards & Honors{data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('awards_honors')
+```
+
+Academic Service & Affiliations {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('awards_honors')
+```
+
+
+Publications-Peer-Reviewed Journal Articles {data-icon=file}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_articles')
+```
+
+Publications-Book Chapter {data-icon=file}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_books')
+```
+
+Publications-Patent {data-icon=file}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_patent')
+```
+
+
+Publications-Software Copyright {data-icon=file}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_softcopy')
+```
+
+Publications-Conference Paper & Abstract {data-icon=file}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_confpaper')
+```
+
+Publications-Open Dataset & Code {data-icon=file}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_code')
+```
+
+Publications-Papers submitted/under revision {data-icon=book}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_paperrs')
+```
+
+Research Projects {data-icon=building-o}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_projects')
+```
+
+Presentations {data-icon=comment}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_pres')
+```
+
+Selected Posters {data-icon=image}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_posters')
+```
+
+
+```{r}
+CV %<>% print_links()
+```
