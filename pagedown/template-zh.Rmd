@@ -395,9 +395,49 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### Response of syntrophic bacterial and methanogenic archaeal communities in paddy soil to soil type and phenological period of rice growth
+
+Journal of Cleaner Production. Accepted, 123418. doi:10.1016/j.jclepro.2020.123418. [SCI, IF=7.246]
+
+N/A
+
+2020
+
+XF. Pan, H. Li, LX. Zhao, XR. Yang, JQ. Su, **SQ. Dai**, J. Ning, CX. Li, GJ. Cai, GF. Zhu
+
+### Green space access in the neighbourhood and childhood obesity
+
+Obesity Reviews. 1-12. doi:10.1111/obr.13100. [SCI, IF=7.31]
+
+N/A
+
+2020
+
+P. Jia, XX. Cao, HX. Yang, **SQ. Dai**, P. He, GL. Huang, T. Wu, YG. Wang.
+
+### Neighbourhood speed limit and childhood obesity
+
+Obesity Reviews. 1-11. doi:10.1111/obr.13052. [SCI, IF=7.31]
+
+N/A
+
+2020
+
+MY. Luo, HQ. Li, XF. Pan, T. Fei, **SQ. Dai**, Q. Ge, YX. Zou, H. Vos, JY. Luo, P. Jia
+
+### Treatment of high-ash industrial sludge for producing improved char with low heavy metal toxicity
+
+Journal of Analytical and Applied Pyrolysis. 150, 104866. doi:10.1016/j.jaap.2020.104866. [SCI, IF=3.905]
+
+N/A
+
+2020
+
+SY. Xie, GW. Yu, CX. Li, J. Li, G. Wang, **SQ. Dai**, Y. Wang.
+
 ### Access to bike lanes and childhood obesity: A systematic review and meta‐analysis.
 
-Obesity Reviews. 2020, 1-11. doi:10.1111/obr.13042. [SCI, IF=8.192]. 
+Obesity Reviews. 2020, 1-11. doi:10.1111/obr.13042. [SCI, IF=7.31]. 
 
 N/A
 
@@ -407,7 +447,7 @@ XF. Pan, L. Zhao, JY. Luo, YH. Li, L. Zhang, T. Wu, M. Smith, **SQ. Dai**, P. Ji
 
 ### A spatial database of CO<SUB>2</SUB> emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China
 
-Data in Brief. 2020, 29, 105274. doi:10.1016/j.dib.2020.105274. [Citescore=0.93]. 
+Data in Brief. 2020, 29, 105274. doi:10.1016/j.dib.2020.105274. [Citescore=1.5]. 
 
 N/A
 
@@ -417,7 +457,7 @@ N/A
 
 ### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
 
-Journal of Cleaner Production. 2020, 244, 118659. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=6.395]. 
+Journal of Cleaner Production. 2020, 244, 118659. doi:10.1016/j.jclepro.2019.118659. [SCI, IF=7.246]. 
 
 N/A
 
@@ -427,7 +467,7 @@ SD. Zuo, **SQ. Dai**, Y. Ren.
 
 ### 气候和土地利用/覆被变化对宁波地区生态系统产水服务的影响.
 
-环境科学学报. 2019, 39(7), 2398-2409. doi:10.13671/j.hjkxxb.2019.0122. [CSCD, 复合影响因子=2.544]. 
+环境科学学报. 2019, 39(7), 2398-2409. doi:10.13671/j.hjkxxb.2019.0122. [CSCD, 复合影响因子=2.703]. 
 
 N/A
 
@@ -437,7 +477,7 @@ N/A
 
 ### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
 
-Applied Energy. 2019, 247, 254-269. doi:10.1016/j.apenergy.2019.04.005. [SCI, IF = 8.426]. 
+Applied Energy. 2019, 247, 254-269. doi:10.1016/j.apenergy.2019.04.005. [SCI, IF = 8.848]. 
 
 N/A
 
@@ -447,7 +487,7 @@ Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng
 
 ### PM2.5 spatiotemporal evolution and drivers in the Yangtze River Delta between 2005 and 2015.
 
-Atmosphere. 2019, 10(2), 55. doi:10.3390/atmos10020055. [SCI, IF = 2.046].
+Atmosphere. 2019, 10(2), 55. doi:10.3390/atmos10020055. [SCI, IF = 2.397].
 
 N/A
 
@@ -457,7 +497,7 @@ GL. Yun, YR. He, YT. Jiang, PF. Dou, **SQ. Dai**.
 
 ### Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models.
 
-Remote Sensing. 2018, 10(11), 1814. doi:10.3390/rs10111814. [SCI, IF = 4.118].
+Remote Sensing. 2018, 10(11), 1814. doi:10.3390/rs10111814. [SCI, IF = 4.509].
 
 N/A
 
@@ -467,7 +507,7 @@ SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, WY. Chang, Q. Chen, YY. Li, JF
 
 ### Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.
 
-International Journal of Environmental Research and Public Health. 2018, 15(10), 2175. doi:10.3390/ijerph15102175. [SCI, IF = 2.468].
+International Journal of Environmental Research and Public Health. 2018, 15(10), 2175. doi:10.3390/ijerph15102175. [SCI, IF = 2.849].
 
 N/A
 
@@ -477,7 +517,7 @@ SD. Zuo, **SQ. Dai**, YY. Li, JF. Tang, Y. Ren.
 
 ### H市城区步行环境对两抢一盗警情的影响.
 
-地理科学. 2018, 38(8), 1235-1244. doi:10.13249/j.cnki.sgs.2018.08.005. [CSCD, 复合影响因子=3.964].
+地理科学. 2018, 38(8), 1235-1244. doi:10.13249/j.cnki.sgs.2018.08.005. [CSCD, 复合影响因子=4.803].
 
 N/A
 
@@ -497,7 +537,7 @@ GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, 
 
 ### 不同环境规制工具对中国节能减排技术创新的影响——基于285个地级市面板数据.
 
-中国人口·资源与环境. 2018, 28(02), 115-122. doi:10.12062/cpre.20170915. [CSCD, 复合影响因子=5.211].
+中国人口·资源与环境. 2018, 28(02), 115-122. doi:10.12062/cpre.20170915. [CSCD, 复合影响因子=5.428].
 
 N/A
 
@@ -507,7 +547,7 @@ N/A
 
 ### Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.
 
-Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI].
+Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI, CiteScore=1.9].
 
 N/A
 
@@ -517,7 +557,7 @@ Q. Ye, **SQ. Dai**, G. Zeng.
  
 ### 基于政府大数据的北京城市空间发展模式分析.
 
-地理信息世界. 2017, 23(3), 20-26. doi:10.3969/j.issn.1672-1586.2016.03.004. [JST, 复合影响因子=0.935].
+地理信息世界. 2017, 23(3), 20-26. doi:10.3969/j.issn.1672-1586.2016.03.004. [JST, 复合影响因子=1.026].
 
 N/A
 
@@ -715,7 +755,7 @@ N/A
 --------------------------------------------------------------------------------
 ###  A framework for uncertainty propagation in gridded maps of CO<SUB>2</SUB> emissions: a case study of Jinjiang city, China.
 
-Remote Sensing. [审稿].
+Remote Sensing. [返修].
 
 N/A
 
@@ -723,9 +763,9 @@ N/A
 
 **SQ. Dai**, SD. Zuo, CY. Lai, ZW. Yu, JJ. Li, SY. Xie, BC. Chen, Y. Ren.
 
-### Improving maps of forest aboveground biomass: A combined approach using machine learning with a spatial statistical model.
+### Improving plot-level model of forest aboveground biomass: A combined approach using machine learning with spatial statistics.
 
-Biogeosciences. [返修].
+Ecological Modeling. [审稿].
 
 N/A
 
@@ -735,7 +775,7 @@ N/A
 
 ### Source Analysis of Uncertainty in Estimates of Forest Above-ground Biomass by Integrating Spatial Statistics, Machine Learning, Forest inventory Data, and Airborne LiDAR Data.
 
-Remote Sensing of Environment. [提交].
+Method in Ecology & Evolution. [提交].
 
 N/A
 
@@ -762,27 +802,6 @@ N/A
 2020
 
 PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
-
-### Response of syntrophic bacterial and methanogenic archaeal communities in paddy soil to soil type and phenological stage of rice growth.
-
-Journal of Cleaner Production. [提交]
-
-N/A
-
-2020
-
-XF. Pan, H. Li, L. Zhao, XR. Yang, JQ. Su, **SQ. Dai**, CX. Li, GJ. Cai, GF. Zhu.
-
-### Treatment of industrial sludge via co-pyrolysis with rice straw for biochar improvement and heavy metals immobilization.
-
-Journal of Analytical and Applied Pyrolysis. [返修]
-
-N/A
-
-2020
-
-SY. xie, CX. Li, G.wANG, **SQ. Dai**, Y. Wang, GW. Yu.
-
 
 科研项目 {data-icon=building-o}
 --------------------------------------------------------------------------------
@@ -836,6 +855,14 @@ N/A
 
 汇报 {data-icon=comment}
 --------------------------------------------------------------------------------
+### 什么是地理学——从新冠疫情到北斗卫星
+
+同安第一中学地理组
+
+中国, 福建省同安第一中学
+
+2020.08
+
 ### 地理要素的尺度,分区效应,可变面积单元问题与空间统计的挑战
 
 第十一届中国R语言会议
