@@ -48,8 +48,10 @@ Aside
 ```{r}
 # Build interactive network of positions colored by section
 # and connected if they occurred in the same year
-datadrivencv::build_network_logo(CV$entries_data)
+#datadrivencv::build_network_logo(CV$entries_data)
 ```
+
+![戴劭勍](http://science.gisersqdai.top/20150924213710582189-965.jpg){height=50%, width=50%}
 
 
 ```{r}

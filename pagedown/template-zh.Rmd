@@ -64,7 +64,7 @@ Main
 
 2020.01 - 至今
 
-毕业论文: 空间生命历程流行病学与健康地理(导师：Alfred Stein 教授与贾鹏 助理教授)
+毕业论文: 空间生命历程流行病学与健康地理(导师：Alfred Stein 教授与贾鹏 教授)
 
 ### 中国科学院大学, 中国科学院城市环境研究所
 
@@ -361,6 +361,14 @@ N/A
 
 2018-
 
+### GIS 留学指南, [gis-info](https://gis-info.github.io/)
+
+编委
+
+N/A
+
+2020-
+
 ### 国际景观生态学会中国分会(IALE-China)
 
 会员
@@ -385,7 +393,7 @@ N/A
 
 2013-2017
 
-### Data in Brief, The Journal of Open Source Software
+### European Heart Journal, Data in Brief, The Journal of Open Source Software, 上海城市规划
 
 审稿人
 
@@ -395,9 +403,29 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+###  . 春节期间的 PM2.5 污染短期暴露健康效应评估——以长三角地区 25 个城市为例. 
+
+上海城市规划. 05, 22-29. doi:10.11982/j.supr.20200504. [复合影响因子 =1.865]
+
+N/A
+
+2020
+
+**戴劭勍**, 李佳佳, 杨维旭, 陈方煜, 江辉仙.
+
+### Natural environment and childhood obesity: A systematic review
+
+Obesity Reviews. 1-9. doi:10.1111/obr.13097. [SCI, IF=7.31]
+
+N/A
+
+2020
+
+P. Jia, **SQ. Dai**,K. E. Rohli, R.V. Rohli, YN. Ma, C. Yu, XF. Pan, WQ. Zhou.
+
 ### Response of syntrophic bacterial and methanogenic archaeal communities in paddy soil to soil type and phenological period of rice growth
 
-Journal of Cleaner Production. Accepted, 123418. doi:10.1016/j.jclepro.2020.123418. [SCI, IF=7.246]
+Journal of Cleaner Production. 278, 123418. doi:10.1016/j.jclepro.2020.123418. [SCI, IF=7.246]
 
 N/A
 
@@ -588,6 +616,17 @@ N/A
 
 出版物-专利 {data-icon=file}
 --------------------------------------------------------------------------------
+###  结合源解析与机器学习以提升森林生物量的估算精度
+
+[实审].
+
+N/A
+
+2020
+
+任引, 郑小曼, **戴劭勍**, 陈奇, 左舒翟.
+
+
 ###  一种多源数据融合的森林资源清查生物量估算模型.
 
 [实审].
@@ -741,6 +780,16 @@ Beijing, China
 
 出版物-开放数据 & 代码 {data-icon=file}
 --------------------------------------------------------------------------------
+### GISerDaiShaoqing/3dmodelFJNU 1.0 (Version 1.0).
+
+[Data set]. Zenodo. doi:10.5281/zenodo.4277977.
+
+N/A
+
+2020
+
+**SQ. Dai**
+
 ### GISerDaiShaoqing/Urban-Carbon-Dioxide-sources-gridded-maps-and-itsdetemination-in-Jinjiang-city 0.4 (Version 0.4).
 
 [Data set]. Zenodo. doi:10.5281/zenodo.3566072.
@@ -753,19 +802,19 @@ N/A
 
 出版物-投稿/返修论文 {data-icon=book}
 --------------------------------------------------------------------------------
-###  A framework for uncertainty propagation in gridded maps of CO<SUB>2</SUB> emissions: a case study of Jinjiang city, China.
+###  Investigating the uncertainties propagation analysis of CO<SUB>2</SUB> emissions emissions gridded maps at the urban scales: a case study of Jinjiang city, China. : a case study of Jinjiang city, China.
 
-Remote Sensing. [返修].
+Remote Sensing. [提交].
 
 N/A
 
 2020
 
-**SQ. Dai**, SD. Zuo, CY. Lai, ZW. Yu, JJ. Li, SY. Xie, BC. Chen, Y. Ren.
+**SQ. Dai**, SD. Zuo, CY. Lai, JJ. Li, SY. Xie, BC. Chen, Y. Ren.
 
 ### Improving plot-level model of forest aboveground biomass: A combined approach using machine learning with spatial statistics.
 
-Ecological Modeling. [审稿].
+Journal of cleaner production. [审稿].
 
 N/A
 
@@ -773,15 +822,25 @@ N/A
 
 **SQ. Dai**, XM. Zheng, L. Gao, CD. Xu, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
 
-### Source Analysis of Uncertainty in Estimates of Forest Above-ground Biomass by Integrating Spatial Statistics, Machine Learning, Forest inventory Data, and Airborne LiDAR Data.
+### Integrating Spatial Statistics and Machine Learning to Analyze Error Sources in Estimating Forest Aboveground Biomass from Airborne LiDAR Data.
 
-Method in Ecology & Evolution. [提交].
+Agricultural and Forest Meteorology. [审稿].
 
 N/A
 
 2020
 
-XM. Zheng, **SQ. Dai**,  Q. Chen, CD. Xu, XH. Wei, Y. Ren.
+XM. Zheng, **SQ. Dai**,  Q. Chen, K. Calders, CD. Xu, XH. Wei, Y. Ren.
+
+### Spatiotemporal dynamics of steel resources accumulated aboveground in mainland China: 1995-2030.
+
+Journal of cleaner production [返修].
+
+N/A
+
+2020
+
+LL. Song, **SQ. Dai**,  Z. Chao, YP. Liu, WQ. Chen.
 
 ### Commentary: Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2).
 
