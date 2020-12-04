@@ -34,7 +34,7 @@ Aside
 
 - **编程**: R, Python, CGA, Shell, LaTeX, Makrdown, Github.
 
-- **专业软件**: ArcGIS, ENVI, Erdas Image, PostGIS, City Engine.
+- **专业软件**: ArcGIS, ENVI, Erdas Image, City Engine.
 
 
 Disclaimer {#disclaimer}
@@ -361,9 +361,9 @@ N/A
 
 2018-
 
-### GIS 留学指南
+### GISphere
 
-编委
+编委,成员
 
 N/A
 
@@ -403,7 +403,17 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
-###  春节期间的 PM2.5 污染短期暴露健康效应评估——以长三角地区 25 个城市为例. 
+### Investigating the uncertainties propagation analysis of CO<SUB>2</SUB> emissions emissions gridded maps at the urban scales: a case study of Jinjiang city, China.
+
+Remote Sensing. 2020, 12(23), 3932. doi:10.3390/rs12233932. [SCI, IF = 4.509].
+
+N/A
+
+2020
+
+**SQ. Dai**, Y. Ren, SD. Zuo, CY. Lai, JJ. Li, SY. Xie, BC. Chen.
+
+###  春节期间的 PM2.5 污染短期暴露健康效应评估——以长三角地区 25 个城市为例
 
 上海城市规划. 05, 22-29. doi:10.11982/j.supr.20200504. [复合影响因子 = 2.238]
 
@@ -669,6 +679,16 @@ N/A
 
 出版物-会议论文 & 摘要 {data-icon=file}
 --------------------------------------------------------------------------------
+### 春节期间的 PM2.5 污染短期暴露健康效应评估——以长三角地区 25 个城市为例
+
+第十六次空间行为与规划研究会暨数字化与精细化治理学术研讨会, abstract.
+
+Xiamen, China
+
+2020
+
+**戴劭勍**, 李佳佳, 杨维旭, 陈方煜, 江辉仙.
+
 ### The night light uncovers city’s weight—A case study on estimating construction materials in Fuzhou, China.
 10th International Conference on Industrial Ecology, abstract 320
 
@@ -750,7 +770,7 @@ Shanghai, China
 
 ### 基于WalkScore与CGT模型的环境犯罪学分析：以H市为例
 
-时空间行为与城市社会规划研究暨第十二次空间行为与规划研讨会, abstract.
+第十二次空间行为与规划研究会暨时空间行为与城市社会规划研究学术研讨会, abstract.
 
 Beijing, China
 
@@ -802,16 +822,6 @@ N/A
 
 出版物-投稿/返修论文 {data-icon=book}
 --------------------------------------------------------------------------------
-###  Investigating the uncertainties propagation analysis of CO<SUB>2</SUB> emissions emissions gridded maps at the urban scales: a case study of Jinjiang city, China. : a case study of Jinjiang city, China.
-
-Remote Sensing. [审稿].
-
-N/A
-
-2020
-
-**SQ. Dai**, SD. Zuo, CY. Lai, JJ. Li, SY. Xie, BC. Chen, Y. Ren.
-
 ### Improving plot-level model of forest aboveground biomass: A combined approach using machine learning with spatial statistics.
 
 Journal of cleaner production. [审稿].
@@ -824,7 +834,7 @@ N/A
 
 ### Integrating Spatial Statistics and Machine Learning to Analyze Error Sources in Estimating Forest Aboveground Biomass from Airborne LiDAR Data.
 
-Agricultural and Forest Meteorology. [审稿].
+Agricultural and Forest Meteorology. [返修].
 
 N/A
 
@@ -834,7 +844,7 @@ XM. Zheng, **SQ. Dai**,  Q. Chen, K. Calders, CD. Xu, XH. Wei, Y. Ren.
 
 ### Spatiotemporal dynamics of steel resources accumulated aboveground in mainland China: 1995-2030.
 
-Journal of cleaner production [返修].
+Journal of cleaner production [审稿].
 
 N/A
 
@@ -861,6 +871,16 @@ N/A
 2020
 
 PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
+
+### The direct and interactive impacts of hydrological factors on bacillary dysentery across different geographical regions in central China. 
+
+Science of the Total Environment. [审稿]
+
+N/A
+
+2020
+
+SD. Zuo, LP. Yang, PF. Dou, H. Chak Ho, **SQ. Dai**, WJ. Ma, Y. Ren, CR. Huang.
 
 科研项目 {data-icon=building-o}
 --------------------------------------------------------------------------------
@@ -914,11 +934,19 @@ N/A
 
 汇报 {data-icon=comment}
 --------------------------------------------------------------------------------
+### 春节期间的 PM2.5 污染短期暴露健康效应评估——以长三角地区 25 个城市为例
+
+第十六次空间行为与规划研究会暨数字化与精细化管理学术研讨会
+
+中国厦门,厦门大学
+
+2020.12
+
 ### 什么是地理学——从新冠疫情到北斗卫星
 
 同安第一中学地理组
 
-中国, 福建省同安第一中学
+中国厦门, 福建省同安第一中学
 
 2020.08
 
@@ -956,7 +984,7 @@ N/A
 
 ### 城市步行环境的犯罪地理分析
 
-时空间行为与城市社会规划研究暨第十二次空间行为与规划研讨会
+第十二次空间行为与规划研究会暨时空间行为与城市社会规划研究学术研讨会
 
 中国北京,北京联合大学
 
