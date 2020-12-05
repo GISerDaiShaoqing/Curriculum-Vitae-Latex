@@ -136,7 +136,7 @@ Academic Service & Affiliations {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ```{r}
-CV %<>% print_section('awards_honors')
+CV %<>% print_section('academic_service')
 ```
 
 

@@ -8,6 +8,8 @@ Preview my CV [here](cv.pdf).
 
 Preview my Chinese CV [here](cnlatex/template-zh.pdf).
 
+[html version cv](http://gisersqdai.top/mycv/cv.html)
+
 [html version cv chinese](http://gisersqdai.top/mycv/template-zh.html)
 
 XeLaTex
