@@ -810,7 +810,7 @@ N/A
 
 **SQ. Dai**
 
-### GISerDaiShaoqing/Urban-Carbon-Dioxide-sources-gridded-maps-and-itsdetemination-in-Jinjiang-city 0.4 (Version 0.4).
+### GISerDaiShaoqing/Urban-Carbon-Dioxide-sources-gridded-maps-and-itsdetemination-in-Jinjiang-city 0.6 (Version 0.6).
 
 [Data set]. Zenodo. doi:10.5281/zenodo.3566072.
 
