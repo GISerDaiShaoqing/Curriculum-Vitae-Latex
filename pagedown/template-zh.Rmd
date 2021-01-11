@@ -403,6 +403,16 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### The direct and interactive impacts of hydrological factors on bacillary dysentery across different geographical regions in central China. 
+
+Science of the Total Environment. 2020, 764, 144609. doi: 10.1016/j.scitotenv.2020.144609. [SCI, IF = 6.551]
+
+N/A
+
+2020
+
+SD. Zuo, LP. Yang, PF. Dou, H. Chak Ho, **SQ. Dai**, WJ. Ma, Y. Ren, CR. Huang.
+
 ### Investigating the uncertainties propagation analysis of CO<SUB>2</SUB> emissions emissions gridded maps at the urban scales: a case study of Jinjiang city, China.
 
 Remote Sensing. 2020, 12(23), 3932. doi:10.3390/rs12233932. [SCI, IF = 4.509].
@@ -871,16 +881,6 @@ N/A
 2020
 
 PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
-
-### The direct and interactive impacts of hydrological factors on bacillary dysentery across different geographical regions in central China. 
-
-Science of the Total Environment. [审稿]
-
-N/A
-
-2020
-
-SD. Zuo, LP. Yang, PF. Dou, H. Chak Ho, **SQ. Dai**, WJ. Ma, Y. Ren, CR. Huang.
 
 科研项目 {data-icon=building-o}
 --------------------------------------------------------------------------------
