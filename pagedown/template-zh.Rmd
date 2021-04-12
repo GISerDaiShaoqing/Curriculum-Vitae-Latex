@@ -64,7 +64,7 @@ Main
 
 2020.01 - 至今
 
-毕业论文: 空间生命历程流行病学与健康地理(导师：Alfred Stein 教授与贾鹏 教授)
+毕业论文: 空间生命历程流行病学与健康地理(导师：Alfred Stein 教授，贾鹏 教授，徐斐教授)
 
 ### 中国科学院大学, 中国科学院城市环境研究所
 
@@ -92,8 +92,16 @@ Main
 健康地理；空间生命历程流行病学; 空间统计；城市计算; 时空大数据; 生态信息学
 
 
-开发软件 {data-icon=laptop}
+开发软件与项目 {data-icon=laptop}
 --------------------------------------------------------------------------------
+
+### 应用统计学与 R 语言实现笔记
+
+http://gisersqdai.top/Note-of-Applied-Statistics-with-R-Book/
+
+N/A
+
+2017
 
 ### D3L Tool of NASA Satellite
 
@@ -132,6 +140,14 @@ N/A
 ### COVID-19仪表盘shiny应用
 
 基于R shiny开发的COVID-19疫情仪表盘应用，https://gisersqdai.shinyapps.io/COVID19VIS/。
+
+N/A
+
+2020
+
+### Awesome COVID-19
+
+COVID-19 资源合集. http://covid19.gisersqdai.top/en-us/
 
 N/A
 
@@ -403,6 +419,36 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### New approaches to anticipate the risk of reverse zoonosis
+
+Trends in Ecology & Evolution. 2021. (接收). [SCI, IF = 14.764].
+
+N/A
+
+2021
+
+Peng Jia, **Shaoqing Dai**, Tong Wu, Shujuan Yang.
+
+### Pitfalls in Modeling Asymptomatic COVID-19 Infection
+
+Frontiers in Public Health. 2021. 9. 593176. doi: 10.3389/fpubh.2021.593176. [SCI, IF = 2.483]
+
+N/A
+
+2021
+
+Shujuan Yang, **Shaoqing Dai**, Yuling Huang, Peng Jia.
+
+### High spatial resolution mapping of steel resources accumulated above ground in mainland China: Past trends and future prospects
+
+Journal of Cleaner Production. 297, 144609. doi:10.1016/j.jclepro.2021.126482. [SCI, IF = 7.246].
+
+N/A
+
+2021
+
+Lulu Song, Shaoqing Dai, Zhi Cao, Yupeng Liu, Weiqiang Chen.
+
 ### The direct and interactive impacts of hydrological factors on bacillary dysentery across different geographical regions in central China. 
 
 Science of the Total Environment. 2020, 764, 144609. doi: 10.1016/j.scitotenv.2020.144609. [SCI, IF = 6.551]
@@ -411,7 +457,7 @@ N/A
 
 2020
 
-SD. Zuo, LP. Yang, PF. Dou, H. Chak Ho, **SQ. Dai**, WJ. Ma, Y. Ren, CR. Huang.
+Shudi Zuo, Lianping Yang, Panfeng Dou, Hung Chak Ho, **SQ. Dai**, Wenjun Ma, Yin Ren, Cunrui Huang.
 
 ### Investigating the uncertainties propagation analysis of CO<SUB>2</SUB> emissions emissions gridded maps at the urban scales: a case study of Jinjiang city, China.
 
@@ -421,7 +467,7 @@ N/A
 
 2020
 
-**SQ. Dai**, Y. Ren, SD. Zuo, CY. Lai, JJ. Li, SY. Xie, BC. Chen.
+**Shaoqing Dai**, Yin Ren, Shudi Zuo, Chengyi Lai, Jiajia Li, Shengyu Xie, Bingchu Chen.
 
 ###  春节期间的 PM2.5 污染短期暴露健康效应评估——以长三角地区 25 个城市为例
 
@@ -441,7 +487,7 @@ N/A
 
 2020
 
-P. Jia, **SQ. Dai**,K. E. Rohli, R.V. Rohli, YN. Ma, C. Yu, XF. Pan, WQ. Zhou.
+Peng Jia, **Shaoqing Dai**, Kristen. E. Rohli, Robert V. Rohli, Yanan Ma, Chao Yu, Xiongfeng Pan, Weiqi Zhou.
 
 ### Response of syntrophic bacterial and methanogenic archaeal communities in paddy soil to soil type and phenological period of rice growth
 
@@ -451,7 +497,7 @@ N/A
 
 2020
 
-XF. Pan, H. Li, LX. Zhao, XR. Yang, JQ. Su, **SQ. Dai**, J. Ning, CX. Li, GJ. Cai, GF. Zhu
+XiaoFang Pan, Hu Li, Lixin Zhao, Xiaoru Yang, Jianqiang Su, **Shaoqing Dai**, Jing Ning, Chunxing Li, Guanjing Cai, GeFu Zhu.
 
 ### Green space access in the neighbourhood and childhood obesity
 
@@ -461,7 +507,7 @@ N/A
 
 2020
 
-P. Jia, XX. Cao, HX. Yang, **SQ. Dai**, P. He, GL. Huang, T. Wu, YG. Wang.
+Peng Jia, Xinxi Cao, Hongxi Yang, **Shaoqing Dai**, Pan He, Ganlin Huang, Tong Wu, Yaogang Wang.
 
 ### Neighbourhood speed limit and childhood obesity
 
@@ -471,7 +517,7 @@ N/A
 
 2020
 
-MY. Luo, HQ. Li, XF. Pan, T. Fei, **SQ. Dai**, Q. Ge, YX. Zou, H. Vos, JY. Luo, P. Jia
+Miyang Luo, Hanqi Li, Xiongfeng Pan, Teng Fei, **Shaoqing Dai**, Ge Qiu, Yuxuan Zou, Heleen Vos, Jiayou Luo, Peng Jia.
 
 ### Treatment of high-ash industrial sludge for producing improved char with low heavy metal toxicity
 
@@ -481,7 +527,7 @@ N/A
 
 2020
 
-SY. Xie, GW. Yu, CX. Li, J. Li, G. Wang, **SQ. Dai**, Y. Wang.
+Shengyu Xie, Guangwei Yu, Chunxing Li, Jie Li, Gang Wang, **Shaoqing Dai**, Yin Wang.
 
 ### Access to bike lanes and childhood obesity: A systematic review and meta‐analysis.
 
@@ -491,7 +537,7 @@ N/A
 
 2020
 
-XF. Pan, L. Zhao, JY. Luo, YH. Li, L. Zhang, T. Wu, M. Smith, **SQ. Dai**, P. Jia.
+Xiongfeng Pan, Li Zhao, Jiayou Luo, Yinhao Li, Lin Zhang, Tong Wu, Melody Smith, **Shaoqing Dai**, Peng Jia.
 
 ### A spatial database of CO<SUB>2</SUB> emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China
 
@@ -501,7 +547,7 @@ N/A
 
 2020
 
-**SQ. Dai**, SD. Zuo, Y. Ren.
+**Shaoqing Dai**, Shudi Zuo, Yin Ren.
 
 ### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
 
@@ -511,7 +557,7 @@ N/A
 
 2020
 
-SD. Zuo, **SQ. Dai**, Y. Ren.
+Shudi Zuo, **Shaoqing Dai**, Yin Ren.
 
 ### 气候和土地利用/覆被变化对宁波地区生态系统产水服务的影响.
 
@@ -531,7 +577,7 @@ N/A
 
 2019
 
-Q. Yang, TY. Huang, SG. Wang, JS. Li, **SQ. Dai**, S. Wright, YX. Wang, HW. Peng.
+Qing Yang, Tianyue Huang, Saige Wang, Jiashuo Li, **Shaoqing Dai**, Sebastian Wright, Yuxuan Wang, Huaiwu Peng.
 
 ### PM2.5 spatiotemporal evolution and drivers in the Yangtze River Delta between 2005 and 2015.
 
@@ -541,7 +587,7 @@ N/A
 
 2019
 
-GL. Yun, YR. He, YT. Jiang, PF. Dou, **SQ. Dai**.
+Guoliang Yun, Yuanrong He, Yuantong Jiang, Panfeng Dou, **Shaoqing Dai**.
 
 ### Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models.
 
@@ -551,7 +597,7 @@ N/A
 
 2018 
 
-SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+Shudi Zuo, **Shaoqing Dai**, Xiaodong Song, Chengdong Xu, Yilan Liao, Weiyin Chang, Qi Chen, Yaying Li, Jianfeng Tang, Wang Man, Yin Ren.
 
 ### Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.
 
@@ -561,7 +607,7 @@ N/A
 
 2018 
 
-SD. Zuo, **SQ. Dai**, YY. Li, JF. Tang, Y. Ren.
+Shudi Zuo, **Shaoqing Dai**, Yaying Li, Jianfeng Tang, Yin Ren.
 
 ### H市城区步行环境对两抢一盗警情的影响.
 
@@ -581,7 +627,7 @@ N/A
 
 2018 
 
-GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+Guoliang Yun, Shudi Zuo, **Shaoqing Dai**, Xiaodong. Song, Chengdong Xu, Yilan Liao, Peiqiang Zhao, Weiyin Chang, Qi Chen, Yaying Li, Jianfeng Tang, Wang Man, Yin Ren.
 
 ### 不同环境规制工具对中国节能减排技术创新的影响——基于285个地级市面板数据.
 
@@ -601,7 +647,7 @@ N/A
 
 2017
 
-Q. Ye, **SQ. Dai**, G. Zeng.
+Qin Ye, **Shaoqing Dai**, Gang Zeng.
  
 ### 基于政府大数据的北京城市空间发展模式分析.
 
@@ -622,7 +668,7 @@ N/A
 
 2019
 
-GL. Yun, SD. Zuo, **SQ. Dai**, XD. Song, CD. Xu, YL. Liao, PQ. Zhao, WY. Chang, Q. Chen, YY. Li, JF. Tang, W. Man, Y. Ren.
+Guoliang Yun, Shudi Zuo, **Shaoqing Dai**, Xiaodong. Song, Chengdong Xu, Yilan Liao, Peiqiang Zhao, Weiyin Chang, Qi Chen, Yaying Li, Jianfeng Tang, Wang Man, Yin Ren.
 
 ### Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China.
 
@@ -632,7 +678,7 @@ N/A
 
 2017
 
-**SQ. Dai**, JJ. Li, SD. Zuo, Y. Ren, HX. Jiang.
+**Shaoqing Dai**, Jiajia Li, Shudi Zuo, Yin Ren, Huixian Jiang.
 
 出版物-专利 {data-icon=file}
 --------------------------------------------------------------------------------
@@ -706,7 +752,7 @@ Qingdao, China
 
 2019
 
-JJ. Li, YP. Liu, **SQ. Dai**, KY. Xiang, HX. Jiang, WQ. Chen.
+Jiajia Li, Yupeng Liu, **Shaoqing Dai**, Keying. Xiang, Huixian. Jiang, Weiqiang Chen.
 
 ### 地理要素的尺度,分区效应,可变面积单元问题与空间统计的挑战
 
@@ -725,7 +771,7 @@ Beijing, China
 
 2018
 
-**SQ. Dai**, SD. Zuo, Y. Ren.
+**Shaoqing Dai**, Shudi Zuo, Yin Ren.
 
 ### Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics.
 
@@ -735,7 +781,7 @@ Beijing, China
 
 2018
 
-**SQ. Dai**, XM. Zheng, SD. Zuo, Y. Ren.
+**Shaoqing Dai**, Xiaoman Zheng, Shudi Zuo, Yin Ren.
 
 ### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution.
 
@@ -745,7 +791,7 @@ New Orleans, America
 
 2017
 
-SD. Zuo, **SQ. Dai**, Y. Ren, ZW. Yu
+Shudi Zuo, **Shaoqing Dai**, Yin Ren, Zhaowu Yu
 
 ### 城市形态的PM2.5环境效应——以京津冀城市群为例
 
@@ -796,7 +842,7 @@ Beijing, China
 
 2017
 
-**SQ. Dai**, HX. Jiang, JJ. Li, QW. Xu.
+**Shaoqing Dai**, Huixian Jiang, Jiajia Li, Qingwei Xu.
 
 ### The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City.
 
@@ -806,23 +852,23 @@ Beijing, China
 
 2017
 
-**SQ. Dai**, HX. Jiang, JJ. Li.
+**Shaoqing Dai**, Huixian Jiang, Jiajia Li.
 
 出版物-开放数据 & 代码 {data-icon=file}
 --------------------------------------------------------------------------------
 ### GISerDaiShaoqing/3dmodelFJNU 1.0 (Version 1.0).
 
-[Data set]. Zenodo. doi:10.5281/zenodo.4277977.
+Zenodo. doi:10.5281/zenodo.4277977.
 
 N/A
 
 2020
 
-**SQ. Dai**
+**Shaoqing Dai**
 
 ### GISerDaiShaoqing/Urban-Carbon-Dioxide-sources-gridded-maps-and-itsdetemination-in-Jinjiang-city 0.6 (Version 0.6).
 
-[Data set]. Zenodo. doi:10.5281/zenodo.3566072.
+Zenodo. doi:10.5281/zenodo.3566072.
 
 N/A
 
@@ -834,13 +880,13 @@ N/A
 --------------------------------------------------------------------------------
 ### Improving plot-level model of forest aboveground biomass: A combined approach using machine learning with spatial statistics.
 
-Journal of cleaner production. [审稿].
+Forests. [返修].
 
 N/A
 
-2020
+2021
 
-**SQ. Dai**, XM. Zheng, L. Gao, CD. Xu, SD. Zuo, Q. Chen, XH. Wei, Y. Ren.
+**Shaoqing Dai**,  Xiaoman Zheng, Lei Gao, Chengdong Xu, Shudi Zuo, Qi Chen, Xiaohua Wei, Yin Ren.
 
 ### Integrating Spatial Statistics and Machine Learning to Analyze Error Sources in Estimating Forest Aboveground Biomass from Airborne LiDAR Data.
 
@@ -848,42 +894,41 @@ Agricultural and Forest Meteorology. [返修].
 
 N/A
 
-2020
+2021
 
-XM. Zheng, **SQ. Dai**,  Q. Chen, K. Calders, CD. Xu, XH. Wei, Y. Ren.
+Xiaoman Zheng, **Shaoqing Dai**,  Qi Chen, Kim Calders, Chengdong Xu, Xiaohua Wei, Mazhan Zhuang, Yin Ren.
 
-### Spatiotemporal dynamics of steel resources accumulated aboveground in mainland China: 1995-2030.
+### Twodimensional copper fingerprints in blood as biomarker for bladder cancer with machine learning.
 
-Journal of cleaner production [审稿].
-
-N/A
-
-2020
-
-LL. Song, **SQ. Dai**,  Z. Chao, YP. Liu, WQ. Chen.
-
-### Commentary: Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2).
-
-Frontiers in Public Health. [审稿].
+Nature Communications. [提交].
 
 N/A
 
-2020
+2021
 
-SJ. Yang, **SQ. Dai**, YL Huang, P. Jia.
+Weichao Wang, Xian Liu, Changwen Zhang, Fei Sheng, Shanjun Song, Penghui Li, **Shaoqing Dai**,  Bin Wang, Dawei Lu, Luyao Zhang, Xuezhi Yang, Kuo Yang, Sijin Liu, Aiqian Zhang, Qian Liu, Guibin Jiang.
 
-### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
+### Causes and impact of COVID-19.
 
-Journal of Hydrology. [返修]
+Engineering. [返修].
 
 N/A
 
-2020
+2021
 
-PF. Dou, SD.Zuo, Y. Ren, M.J. Rodriguez, **SQ. Dai**.
+Peng Jia, Tong Wu, Amanda Irish, Ross C. Brownson, Yan Kestens, Miyang Luo, Shiyong Liu, **Shaoqing Dai**, Jing Su, Wenzhong Shi, Justin V. Remais, Gordon G. Liu, Shujuan Yang.
 
 科研项目 {data-icon=building-o}
 --------------------------------------------------------------------------------
+### COVID-19 大流行下居民日常行为，生活方式与城市建成环境的演变规律研究
+
+2020 年度’ 清华-腾讯’ 新兴技术 × 未来城市空间项目’WeSpace 学术支持计划’, **PI**
+
+N/A
+
+2021-现在
+
+
 ### 基于GIS和多源遥感数据的福建省台风灾害评价指数构建
 
 数字福建自然灾害监测大数据研究所开放基金(NDMBD2018001), **Investigator**.
