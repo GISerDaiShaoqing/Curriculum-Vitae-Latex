@@ -84,7 +84,7 @@ Main
 
 2012.09 - 2016.06
 
-毕业论文: 基于BIM与GIS的智慧校园规划选址与设计——以福建师范大学为例(导师：江辉仙 副教授)
+毕业论文: 基于BIM与GIS的智慧校园规划选址与设计——以福建师范大学为例(导师：江辉仙 教授)
 
 
 研究兴趣 {data-icon=heart-o}
@@ -156,6 +156,15 @@ N/A
 
 奖励&荣誉{data-icon=suitcase}
 --------------------------------------------------------------------------------
+### 第五届城垣杯规划决策支持模型设计大赛二等奖.
+
+北京城垣数字科技有限责任公司, 世界规划教育组织, 北规院弘都规划建筑设计研究院有限公司, 北京城市实验室, 百度地图慧眼, 中国联通智慧足迹
+
+中国
+
+2021.07
+
+
 ### 2019年国家公派留学奖学金(CSC).
 
 国家留学基金委
@@ -419,9 +428,19 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
+
+Journal of Environmental Management. 2021. 290, 112588. doi:10.1016/j.jenvman.2021.112588. [SCI, IF = 6.789].
+
+N/A
+
+2021
+
+Panfeng Dou, Shudi Zuo, Yin Ren, Manuel J. Rodriguez, **Shaoqing Dai**.
+
 ### New approaches to anticipate the risk of reverse zoonosis
 
-Trends in Ecology & Evolution. 2021. (接收). [SCI, IF = 14.764].
+Trends in Ecology & Evolution. 2021. 36(7), 580-590. doi:10.1016/j.tree.2021.03.012. [SCI, IF = 17.712].
 
 N/A
 
@@ -431,7 +450,7 @@ Peng Jia, **Shaoqing Dai**, Tong Wu, Shujuan Yang.
 
 ### Pitfalls in Modeling Asymptomatic COVID-19 Infection
 
-Frontiers in Public Health. 2021. 9. 593176. doi: 10.3389/fpubh.2021.593176. [SCI, IF = 2.483]
+Frontiers in Public Health. 2021. 9. 593176. doi: 10.3389/fpubh.2021.593176. [SCI, IF = 3.709]
 
 N/A
 
@@ -441,7 +460,7 @@ Shujuan Yang, **Shaoqing Dai**, Yuling Huang, Peng Jia.
 
 ### High spatial resolution mapping of steel resources accumulated above ground in mainland China: Past trends and future prospects
 
-Journal of Cleaner Production. 297, 144609. doi:10.1016/j.jclepro.2021.126482. [SCI, IF = 7.246].
+Journal of Cleaner Production. 297, 144609. doi:10.1016/j.jclepro.2021.126482. [SCI, IF = 9.297].
 
 N/A
 
@@ -451,7 +470,7 @@ Lulu Song, Shaoqing Dai, Zhi Cao, Yupeng Liu, Weiqiang Chen.
 
 ### The direct and interactive impacts of hydrological factors on bacillary dysentery across different geographical regions in central China. 
 
-Science of the Total Environment. 2020, 764, 144609. doi: 10.1016/j.scitotenv.2020.144609. [SCI, IF = 6.551]
+Science of the Total Environment. 2020, 764, 144609. doi: 10.1016/j.scitotenv.2020.144609. [SCI, IF = 7.963]
 
 N/A
 
@@ -461,7 +480,7 @@ Shudi Zuo, Lianping Yang, Panfeng Dou, Hung Chak Ho, **SQ. Dai**, Wenjun Ma, Yin
 
 ### Investigating the uncertainties propagation analysis of CO<SUB>2</SUB> emissions emissions gridded maps at the urban scales: a case study of Jinjiang city, China.
 
-Remote Sensing. 2020, 12(23), 3932. doi:10.3390/rs12233932. [SCI, IF = 4.509].
+Remote Sensing. 2020, 12(23), 3932. doi:10.3390/rs12233932. [SCI, IF = 4.848].
 
 N/A
 
@@ -481,7 +500,7 @@ N/A
 
 ### Natural environment and childhood obesity: A systematic review
 
-Obesity Reviews. 1-9. doi:10.1111/obr.13097. [SCI, IF = 7.31]
+Obesity Reviews. 1-9. doi:10.1111/obr.13097. [SCI, IF = 9.213]
 
 N/A
 
@@ -491,7 +510,7 @@ Peng Jia, **Shaoqing Dai**, Kristen. E. Rohli, Robert V. Rohli, Yanan Ma, Chao Y
 
 ### Response of syntrophic bacterial and methanogenic archaeal communities in paddy soil to soil type and phenological period of rice growth
 
-Journal of Cleaner Production. 278, 123418. doi:10.1016/j.jclepro.2020.123418. [SCI, IF = 7.246]
+Journal of Cleaner Production. 278, 123418. doi:10.1016/j.jclepro.2020.123418. [SCI, IF = 9.297]
 
 N/A
 
@@ -501,7 +520,7 @@ XiaoFang Pan, Hu Li, Lixin Zhao, Xiaoru Yang, Jianqiang Su, **Shaoqing Dai**, Ji
 
 ### Green space access in the neighbourhood and childhood obesity
 
-Obesity Reviews. 1-12. doi:10.1111/obr.13100. [SCI, IF = 7.31]
+Obesity Reviews. 1-12. doi:10.1111/obr.13100. [SCI, IF = 9.213]
 
 N/A
 
@@ -511,7 +530,7 @@ Peng Jia, Xinxi Cao, Hongxi Yang, **Shaoqing Dai**, Pan He, Ganlin Huang, Tong W
 
 ### Neighbourhood speed limit and childhood obesity
 
-Obesity Reviews. 1-11. doi:10.1111/obr.13052. [SCI, IF = 7.31]
+Obesity Reviews. 1-11. doi:10.1111/obr.13052. [SCI, IF = 9.213]
 
 N/A
 
@@ -521,7 +540,7 @@ Miyang Luo, Hanqi Li, Xiongfeng Pan, Teng Fei, **Shaoqing Dai**, Ge Qiu, Yuxuan 
 
 ### Treatment of high-ash industrial sludge for producing improved char with low heavy metal toxicity
 
-Journal of Analytical and Applied Pyrolysis. 150, 104866. doi:10.1016/j.jaap.2020.104866. [SCI, IF = 3.905]
+Journal of Analytical and Applied Pyrolysis. 150, 104866. doi:10.1016/j.jaap.2020.104866. [SCI, IF = 5.541]
 
 N/A
 
@@ -531,7 +550,7 @@ Shengyu Xie, Guangwei Yu, Chunxing Li, Jie Li, Gang Wang, **Shaoqing Dai**, Yin 
 
 ### Access to bike lanes and childhood obesity: A systematic review and meta‐analysis.
 
-Obesity Reviews. 2020, 1-11. doi:10.1111/obr.13042. [SCI, IF = 7.31]. 
+Obesity Reviews. 2020, 1-11. doi:10.1111/obr.13042. [SCI, IF = 9.213]. 
 
 N/A
 
@@ -541,7 +560,7 @@ Xiongfeng Pan, Li Zhao, Jiayou Luo, Yinhao Li, Lin Zhang, Tong Wu, Melody Smith,
 
 ### A spatial database of CO<SUB>2</SUB> emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China
 
-Data in Brief. 2020, 29, 105274. doi:10.1016/j.dib.2020.105274. [ESCI, Citescore = 1.5]. 
+Data in Brief. 2020, 29, 105274. doi:10.1016/j.dib.2020.105274. [ESCI, Citescore = 1.7]. 
 
 N/A
 
@@ -551,7 +570,7 @@ N/A
 
 ### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
 
-Journal of Cleaner Production. 2020, 244, 118659. doi:10.1016/j.jclepro.2019.118659. [SCI, IF = 7.246]. 
+Journal of Cleaner Production. 2020, 244, 118659. doi:10.1016/j.jclepro.2019.118659. [SCI, IF = 9.297]. 
 
 N/A
 
@@ -571,7 +590,7 @@ N/A
 
 ### A GIS-based high spatial resolution assessment of large-scale PV power generation potential and associated CO<SUB>2</SUB> emission reduction in China.
 
-Applied Energy. 2019, 247, 254-269. doi:10.1016/j.apenergy.2019.04.005. [SCI, IF = 8.848]. 
+Applied Energy. 2019, 247, 254-269. doi:10.1016/j.apenergy.2019.04.005. [SCI, IF = 9.746]. 
 
 N/A
 
@@ -581,7 +600,7 @@ Qing Yang, Tianyue Huang, Saige Wang, Jiashuo Li, **Shaoqing Dai**, Sebastian Wr
 
 ### PM2.5 spatiotemporal evolution and drivers in the Yangtze River Delta between 2005 and 2015.
 
-Atmosphere. 2019, 10(2), 55. doi:10.3390/atmos10020055. [SCI, IF = 2.397].
+Atmosphere. 2019, 10(2), 55. doi:10.3390/atmos10020055. [SCI, IF = 2.686].
 
 N/A
 
@@ -591,7 +610,7 @@ Guoliang Yun, Yuanrong He, Yuantong Jiang, Panfeng Dou, **Shaoqing Dai**.
 
 ### Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models.
 
-Remote Sensing. 2018, 10(11), 1814. doi:10.3390/rs10111814. [SCI, IF = 4.509].
+Remote Sensing. 2018, 10(11), 1814. doi:10.3390/rs10111814. [SCI, IF = 4.848].
 
 N/A
 
@@ -601,7 +620,7 @@ Shudi Zuo, **Shaoqing Dai**, Xiaodong Song, Chengdong Xu, Yilan Liao, Weiyin Cha
 
 ### Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.
 
-International Journal of Environmental Research and Public Health. 2018, 15(10), 2175. doi:10.3390/ijerph15102175. [SCI, IF = 2.849].
+International Journal of Environmental Research and Public Health. 2018, 15(10), 2175. doi:10.3390/ijerph15102175. [SCI, IF = 3.390].
 
 N/A
 
@@ -621,7 +640,7 @@ N/A
 
 ### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale.
 
-Remote Sensing. 2018, 10(4), 521. doi:10.3390/rs10040521. [SCI, IF = 4.509].
+Remote Sensing. 2018, 10(4), 521. doi:10.3390/rs10040521. [SCI, IF = 4.848].
 
 N/A
 
@@ -641,7 +660,7 @@ N/A
 
 ### Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.
 
-Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI, CiteScore = 1.9].
+Chinese Journal of Population Resources and Environment. 2017, 16(1), 1-11. doi:10.1080/10042857.2017.1418273. [ESCI, CiteScore = 2.7].
 
 N/A
 
@@ -880,7 +899,7 @@ N/A
 --------------------------------------------------------------------------------
 ### Improving plot-level model of forest aboveground biomass: A combined approach using machine learning with spatial statistics.
 
-Forests. [返修].
+Ecosphere. [审稿].
 
 N/A
 
@@ -900,7 +919,7 @@ Xiaoman Zheng, **Shaoqing Dai**,  Qi Chen, Kim Calders, Chengdong Xu, Xiaohua We
 
 ### Twodimensional copper fingerprints in blood as biomarker for bladder cancer with machine learning.
 
-Nature Communications. [提交].
+. [提交].
 
 N/A
 
@@ -908,15 +927,25 @@ N/A
 
 Weichao Wang, Xian Liu, Changwen Zhang, Fei Sheng, Shanjun Song, Penghui Li, **Shaoqing Dai**,  Bin Wang, Dawei Lu, Luyao Zhang, Xuezhi Yang, Kuo Yang, Sijin Liu, Aiqian Zhang, Qian Liu, Guibin Jiang.
 
-### Causes and impact of COVID-19.
+### Impacts of and vulnerability to the COVID-19 pandemic: a planetary health perspective.
 
-Engineering. [返修].
+Engineering. [审稿].
 
 N/A
 
 2021
 
-Peng Jia, Tong Wu, Amanda Irish, Ross C. Brownson, Yan Kestens, Miyang Luo, Shiyong Liu, **Shaoqing Dai**, Jing Su, Wenzhong Shi, Justin V. Remais, Gordon G. Liu, Shujuan Yang.
+Peng Jia, Tong Wu, Ross C. Brownson, Yan Kestens, Miyang Luo, Shiyong Liu, **Shaoqing Dai**, Jing Su, Gordon G. Liu, Shujuan Yang.
+
+### Quantifying Urban Weight Gain And Loss by A GIS-based Material Stocks And Flows Analysis.
+
+Journal of Industrial Ecology. [审稿].
+
+N/A
+
+2021
+
+Yupeng Liu, Jiajia Li, Weiqiang Chen, Lulu Song, **Shaoqing Dai**.
 
 科研项目 {data-icon=building-o}
 --------------------------------------------------------------------------------
@@ -926,7 +955,7 @@ Peng Jia, Tong Wu, Amanda Irish, Ross C. Brownson, Yan Kestens, Miyang Luo, Shiy
 
 N/A
 
-2021-现在
+2021-2021
 
 
 ### 基于GIS和多源遥感数据的福建省台风灾害评价指数构建
