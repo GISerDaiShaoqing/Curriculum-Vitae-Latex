@@ -428,16 +428,6 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
-### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
-
-Journal of Environmental Management. 2021. 290, 112588. doi:10.1016/j.jenvman.2021.112588. [SCI, IF = 6.789].
-
-N/A
-
-2021
-
-Panfeng Dou, Shudi Zuo, Yin Ren, Manuel J. Rodriguez, **Shaoqing Dai**.
-
 ### New approaches to anticipate the risk of reverse zoonosis
 
 Trends in Ecology & Evolution. 2021. 36(7), 580-590. doi:10.1016/j.tree.2021.03.012. [SCI, IF = 17.712].
@@ -447,6 +437,16 @@ N/A
 2021
 
 Peng Jia, **Shaoqing Dai**, Tong Wu, Shujuan Yang.
+
+### Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China.
+
+Journal of Environmental Management. 2021. 290, 112588. doi:10.1016/j.jenvman.2021.112588. [SCI, IF = 6.789].
+
+N/A
+
+2021
+
+Panfeng Dou, Shudi Zuo, Yin Ren, Manuel J. Rodriguez, **Shaoqing Dai**.
 
 ### Pitfalls in Modeling Asymptomatic COVID-19 Infection
 
