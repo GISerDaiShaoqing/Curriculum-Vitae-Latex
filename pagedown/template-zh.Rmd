@@ -447,7 +447,7 @@ N/A
 Peng Jia, Yuanyuan Shi, Qi Jiang, **Shaoqing Dai**, Bin Yu, Shuhan Yang, Ge Qiu, Shujuan Yang.
 
 
-### The importance of the functional mixed entropy for the explanation of residential and transport CO<SUB>2<SUB/> emissions in the urban center of China
+### The importance of the functional mixed entropy for the explanation of residential and transport CO<SUB>2</SUB> emissions in the urban center of China
 
 Journal of Cleaner Production. 380, 134947. doi:10.1016/j.jclepro.2022.134947. [SCI, IF = 11.1].
 
@@ -775,7 +775,7 @@ N/A
 --------------------------------------------------------------------------------
 ###  结合源解析与机器学习以提升森林生物量的估算精度
 
-N/A
+CN111814397A
 
 N/A
 
@@ -786,7 +786,7 @@ N/A
 
 ###  一种多源数据融合的森林资源清查生物量估算模型.
 
-N/A
+CN110162872A
 
 N/A
 
@@ -797,7 +797,7 @@ N/A
 
 ###  一种预测大面积亚热带森林生物量的混合效应模型.
 
-N/A
+CN108959705A
 
 N/A
 
@@ -1021,7 +1021,7 @@ N/A
 Peng Jia, Tong Wu, **Shaoqing Dai**, Ross C. Brownson, Yan Kestens, Miyang Luo, Shiyong Liu, Jing Su, Gordon
 G. Liu, Shujuan Yang.
 
-### Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO<SUB>2<SUB/> emissions in Shanghai, China.
+### Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO<SUB>2</SUB> emissions in Shanghai, China.
 
 Building and Environment. [审稿].
 
