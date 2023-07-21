@@ -538,7 +538,7 @@ N/A
 
 2021
 
-Lulu Song, Shaoqing Dai, Zhi Cao, Yupeng Liu, Weiqiang Chen.
+Lulu Song, **Shaoqing Dai**, Zhi Cao, Yupeng Liu, Weiqiang Chen.
 
 ### The direct and interactive impacts of hydrological factors on bacillary dysentery across different geographical regions in central China. 
 
@@ -548,7 +548,7 @@ N/A
 
 2020
 
-Shudi Zuo, Lianping Yang, Panfeng Dou, Hung Chak Ho, **SQ. Dai**, Wenjun Ma, Yin Ren, Cunrui Huang.
+Shudi Zuo, Lianping Yang, Panfeng Dou, Hung Chak Ho, **Shaoqing Dai**, Wenjun Ma, Yin Ren, Cunrui Huang.
 
 ### Investigating the uncertainties propagation analysis of CO<SUB>2</SUB> emissions emissions gridded maps at the urban scales: a case study of Jinjiang city, China.
 
@@ -965,7 +965,7 @@ N/A
 
 2020
 
-**SQ. Dai**, SD. Zuo, Y. Ren.
+**Shaoqing Dai**, Shudi Zuo, Yin Ren.
 
 出版物-投稿/返修论文 {data-icon=book}
 --------------------------------------------------------------------------------
