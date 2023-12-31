@@ -58,13 +58,13 @@ Main
 --------------------------------------------------------------------------------
 ### 特文特大学, 地理信息与对地观测学院（ITC）
 
-空间数据获取与质量博士
+地理学博士
 
 荷兰恩斯赫德
 
 2020.01 - 至今
 
-毕业论文: 空间生命历程流行病学与健康地理(导师：Alfred Stein 教授，贾鹏 教授，徐斐教授)
+毕业论文: 基于先进的地理空间方法改进环境评估(导师：Alfred Stein 教授，贾鹏 教授，徐斐教授)
 
 ### 中国科学院大学, 中国科学院城市环境研究所
 
@@ -426,7 +426,7 @@ N/A
 
 2013-2017
 
-### European Heart Journal, Sustainable Cities and Society, Cities, Frontiers in Public Health, International Journal of Digital Earth, Scientific Reports, Data in Brief, The Journal of Open Source Software, 上海城市规划
+### European Heart Journal, Sustainable Cities and Society, Cities, Frontiers in Public Health, Frontiers in Environmental Science, International Journal of Digital Earth, Scientific Reports, Data in Brief, The Journal of Open Source Software, 上海城市规划
 
 审稿人
 
@@ -436,6 +436,49 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### Mixed land use has opposite associations with subjective well-being through social capital: Spatial heterogeneity in residential and workplace neighborhoods
+
+Travel Behaviour and Society.35, 100724. doi:10.1016/j.tbs.2023.100724. [SSCI, IF = 5.2].
+
+N/A
+
+2024
+
+Chun Yin, Jiahang Liu, **Shaoqing Dai**, Bindong Sun.
+
+### Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO<SUB>2</SUB> emissions in Shanghai, China.
+
+Building and Environment.247, 111007. doi:10.1016/j.buildenv.2023.111007. [SCI, IF = 7.4].
+
+N/A
+
+2024
+
+Yunfeng Tian, Shudi Zuo, Jiaheng Ju, **Shaoqing Dai**, Yin Ren, Panfeng Dou.
+
+### Assessing Spatiotemporal Bikeability Using Multi-Source Geospatial Big Data: A Case Study of Xiamen, China
+
+International Journal of Applied Earth Observation and Geoinformation. 125, 103539. doi:10.1016/j.jag.2023.103539. [SCI, IF = 7.5].
+
+N/A
+
+2023
+
+**Shaoqing Dai**, Wufan Zhao, Yanwen Wang, Xiao Huang, Zhidong Chen, Jinghan Lei, Alfred Stein, Peng
+Jia.
+
+### Development and validation of an age-sex-ethnicity-specific metabolic syndrome score in the Chinese adults
+
+Nature Communications. 14(1), 6988. doi:10.1038/s41467-023-42423-y. [SCI, IF = 16.6].
+
+N/A
+
+2023
+
+Shujuan Yang, Bin Yu, Wanqi Yu, **Shaoqing Dai**, Chuanteng Feng, Ying Shao,Xing Zhao, Xiaoqing Li, Tianjing
+He, Peng Jia.
+
+
 ### Environmental determinants of childhood obesity: a meta-analysis
 
 The Lancet Global Health. 11, S7. doi:10.1016/S2214-109X(23)00092-X. [SCI, IF = 34.3].
@@ -562,7 +605,7 @@ N/A
 
 ###  春节期间的 PM2.5 污染短期暴露健康效应评估——以长三角地区 25 个城市为例
 
-上海城市规划. 05, 22-29. doi:10.11982/j.supr.20200504. [北大核心, 复合影响因子 = 1.919]
+上海城市规划. 05, 22-29. doi:10.11982/j.supr.20200504. [北大核心, 复合影响因子 = 2.219]
 
 N/A
 
@@ -642,7 +685,7 @@ N/A
 
 ### More fragmentized urban form more CO<SUB>2</SUB> emissions? An comprehensive relationship from the combination analysis across different scales.
 
-Journal of Cleaner Production. 2020, 244, 118659. doi:10.1016/j.jclepro.2019.118659. [SCI, IF = 8.9]. 
+Journal of Cleaner Production. 2020, 244, 118659. doi:10.1016/j.jclepro.2019.118659. [SCI, IF = 11.1]. 
 
 N/A
 
@@ -652,7 +695,7 @@ Shudi Zuo, **Shaoqing Dai**, Yin Ren.
 
 ### 气候和土地利用/覆被变化对宁波地区生态系统产水服务的影响.
 
-环境科学学报. 2019, 39(7), 2398-2409. doi:10.13671/j.hjkxxb.2019.0122. [CSCD, 复合影响因子 = 3.139]. 
+环境科学学报. 2019, 39(7), 2398-2409. doi:10.13671/j.hjkxxb.2019.0122. [CSCD, 复合影响因子 = 3.417]. 
 
 N/A
 
@@ -692,7 +735,7 @@ Shudi Zuo, **Shaoqing Dai**, Xiaodong Song, Chengdong Xu, Yilan Liao, Weiyin Cha
 
 ### Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.
 
-International Journal of Environmental Research and Public Health. 2018, 15(10), 2175. doi:10.3390/ijerph15102175. [SSCI, IF = 4.614].
+International Journal of Environmental Research and Public Health. 2018, 15(10), 2175. doi:10.3390/ijerph15102175. [EI, Citescore = 5.4].
 
 N/A
 
@@ -702,7 +745,7 @@ Shudi Zuo, **Shaoqing Dai**, Yaying Li, Jianfeng Tang, Yin Ren.
 
 ### H市城区步行环境对两抢一盗警情的影响.
 
-地理科学. 2018, 38(8), 1235-1244. doi:10.13249/j.cnki.sgs.2018.08.005. [CSCD, 复合影响因子 = 6.524].
+地理科学. 2018, 38(8), 1235-1244. doi:10.13249/j.cnki.sgs.2018.08.005. [CSCD, 复合影响因子 = 7.367].
 
 N/A
 
@@ -722,7 +765,7 @@ Guoliang Yun, Shudi Zuo, **Shaoqing Dai**, Xiaodong. Song, Chengdong Xu, Yilan L
 
 ### 不同环境规制工具对中国节能减排技术创新的影响——基于285个地级市面板数据.
 
-中国人口·资源与环境. 2018, 28(02), 115-122. doi:10.12062/cpre.20170915. [CSCD, 复合影响因子 = 7.598].
+中国人口·资源与环境. 2018, 28(02), 115-122. doi:10.12062/cpre.20170915. [CSCD, 复合影响因子 = 8.421].
 
 N/A
 
@@ -742,7 +785,7 @@ Qin Ye, **Shaoqing Dai**, Gang Zeng.
  
 ### 基于政府大数据的北京城市空间发展模式分析.
 
-地理信息世界. 2017, 23(3), 20-26. doi:10.3969/j.issn.1672-1586.2016.03.004. [JST, 复合影响因子 = 1.391].
+地理信息世界. 2017, 23(3), 20-26. doi:10.3969/j.issn.1672-1586.2016.03.004. [JST, 复合影响因子 = 1.099].
 
 N/A
 
@@ -971,7 +1014,7 @@ N/A
 --------------------------------------------------------------------------------
 ### Street view imagery for built environment auditing: a systematic review.
 
-International Journal of Geographical Information Science. [返修].
+International Journal of Geographical Information Science. [审稿].
 
 N/A
 
@@ -1021,15 +1064,7 @@ N/A
 Peng Jia, Tong Wu, **Shaoqing Dai**, Ross C. Brownson, Yan Kestens, Miyang Luo, Shiyong Liu, Jing Su, Gordon
 G. Liu, Shujuan Yang.
 
-### Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO<SUB>2</SUB> emissions in Shanghai, China.
 
-Building and Environment. [审稿].
-
-N/A
-
-N/A
-
-Yunfeng Tian, Shudi Zuo, Jiaheng Ju, **Shaoqing Dai**, Yin Ren, Panfeng Dou.
 
 科研项目 {data-icon=building-o}
 --------------------------------------------------------------------------------
