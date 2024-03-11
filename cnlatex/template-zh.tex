@@ -3,6 +3,7 @@
 
 % moderncv definition
 \documentclass[11pt,a4paper,sans]{moderncv}
+ \raggedright
 \moderncvstyle{classic}
 \moderncvcolor{blue}
 
@@ -53,9 +54,11 @@
 \newcommand{\mycvitemcomment}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\small{#3}}}
 \newcommand{\mycvitemac}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\textbf{#3}}}
 \newcommand{\mycvitemacl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\textbf{#3}}}
-\newcommand{\mycvitemEDU}[8]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}, {#4}\vfill{#5}\vfill{毕业论文:}\textit{#6}\vfill{专业:}{#7}\hfill\faMapMarker\ {#8}}}
-\newcommand{\mycvitemPP}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\faMapMarker\ {#3}}}
-\newcommand{\mycvitemPPl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\faMapMarker\ {#3}}}
+\newcommand{\mycvitemEDU}[8]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}, {#4}\vfill{#5}\vfill{毕业论文题目:}\textit{#6}\vfill{专业:}{#7}\hfill\faMapMarker\ {#8}}}
+%\newcommand{\mycvitemPP}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\faMapMarker\ {#3}}}
+%\newcommand{\mycvitemPPl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\faMapMarker\ {#3}}}
+\newcommand{\mycvitemPP}[2]{\cvitem{\faCalendarO\hfill{#1}}{{#2}}}
+\newcommand{\mycvitemPPl}[2]{\cvitem{\faCalendarO\hfill{#1}}{{#2}}}
 \newcommand{\mycvitemXP}[4]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}\vfill\hfill\faMapMarker\ {#4}}}
 
 % Identifying information
@@ -94,7 +97,7 @@
      	% Address
      \faMap\ {荷兰恩斯赫德亨格洛大街99号, 7514 AE}\\
      %Affiliation
-     \faBuilding\ {荷兰特文特大学地理信息与对地观测学院对地观测科学系} 
+     \faBuilding\ {荷兰特温特大学地理信息与对地观测学院对地观测科学系} 
 }
 % Picture
 \photo[42pt][2pt]{dsq.png}
@@ -113,6 +116,7 @@
      \input{education}
 	%\vfill
      \input{interests}
+     \input{publications}
      \input{software}
 	\nocite{*}
      	%\printbibliography[heading=none]
@@ -121,11 +125,11 @@
 	%\vfill
      \input{awards}
      \input{activities}
-	\input{publications}
+	%\input{publications}
      \input{researches}
      \input{presentation}
      \input{poster}
-     \input{language}
+     %\input{language}
      \input{skills}
 	%\section{\texorpdfstring{\faLaptop\ Skills}{Skills}}
 		%\cvdoubleitem{Scripting}{Groovy, Bash, Python, Perl, Java, R}{Pipeline}{Nextflow}

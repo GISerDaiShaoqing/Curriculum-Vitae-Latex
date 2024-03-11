@@ -23,7 +23,7 @@ Aside
 - <i class="fa fa-envelope"></i> dsq1993qingge@163.com
 - <i class="fa fa-globe"></i> [homepage](http://gisersqdai.top/mycv/)
 - <i class="fa fa-map"></i> 荷兰恩斯赫德亨格洛大街99号，7514 AE
-- <i class="fa fa-building"></i> 荷兰特文特大学地理信息与对地观测学院对地观测科学系
+- <i class="fa fa-building"></i> 荷兰特温特大学地理信息与对地观测学院对地观测科学系
 - 如果有什么需要,请通过邮件联系我.
 
 
@@ -56,7 +56,7 @@ Main
 
 教育经历 {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
-### 特文特大学, 地理信息与对地观测学院（ITC）
+### 特温特大学, 地理信息与对地观测学院（ITC）
 
 地理学博士
 
@@ -64,7 +64,7 @@ Main
 
 2020.01 - 至今
 
-毕业论文: 基于先进的地理空间方法改进环境评估(导师：Alfred Stein 教授，贾鹏 教授，徐斐教授)
+毕业论文题目: Improving obesogenic environmental assessment with advanced geospatial methods(导师：贾鹏 教授，Alfred Stein 教授)
 
 ### 中国科学院大学, 中国科学院城市环境研究所
 
@@ -74,7 +74,7 @@ Main
 
 2016.09 - 2019.06
 
-毕业论文: 耦合生态过程模型与排放清单的碳源汇制图研究(导师：任引 研究员)
+毕业论文题目: 耦合生态过程模型与排放清单的碳源汇制图研究(导师：任引 研究员)
 
 ### 福建师范大学,地理科学学院
 
@@ -84,12 +84,12 @@ Main
 
 2012.09 - 2016.06
 
-毕业论文: 基于BIM与GIS的智慧校园规划选址与设计——以福建师范大学为例(导师：江辉仙 教授)
+毕业论文题目: 基于BIM与GIS的智慧校园规划选址与设计——以福建师范大学为例(导师：江辉仙 教授)
 
 
 研究兴趣 {data-icon=heart-o}
 --------------------------------------------------------------------------------
-健康地理；空间生命历程流行病学; 空间统计；城市计算; 时空大数据; 生态信息学
+健康地理；空间全生命周期健康; 空间统计；城市计算; 时空大数据; 生态信息学
 
 
 开发软件与项目 {data-icon=laptop}
@@ -168,7 +168,7 @@ N/A
 
 北京城垣数字科技有限责任公司, 世界规划教育组织, 北规院弘都规划建筑设计研究院有限公司, 北京城市实验室, 百度地图慧眼, 中国联通智慧足迹
 
-中国
+N/A
 
 2021.07
 
@@ -177,7 +177,7 @@ N/A
 
 国家留学基金委
 
-中国
+N/A
 
 2019.06
 
@@ -186,7 +186,7 @@ N/A
 
 永清环保集团
 
-中国
+N/A
 
 2019.06
 
@@ -194,7 +194,7 @@ N/A
 
 中国科学院城市环境研究所
 
-中国厦门
+N/A
 
 2019.06
 
@@ -202,7 +202,7 @@ N/A
 
 中国生态学会
 
-中国
+N/A
 
 2019.01
 
@@ -210,7 +210,7 @@ N/A
 
 中国教育部
 
-中国
+N/A
 
 2018.11
 
@@ -218,15 +218,15 @@ N/A
 
 中国城市科学研究会城市大数据专业委员会
 
-中国
+N/A
 
 2018.10
 
-### 'Applied Energy'2018年暑期学校结业证书
+### “Applied Energy”2018年暑期学校结业证书
 
 The Applied Energy Innovation Institute, 清华大学地球系统科学系, China Emission Accounts & Datasets(CEADs)
 
-中国北京
+N/A
 
 2018.07
 
@@ -234,7 +234,7 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 中国科学院大学
 
-中国北京
+N/A
 
 2018.06
 
@@ -242,7 +242,7 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 中国科学院城市环境研究所
 
-中国厦门
+N/A
 
 2018.06
 
@@ -250,23 +250,23 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 中国科学院城市环境研究所
 
-中国厦门
+N/A
 
 2018.06
 
-### 第五届'共享杯'大学生科技资源共享服务创新大赛全国优秀奖
+### 第五届“共享杯”大学生科技资源共享服务创新大赛全国优秀奖
 
 国家科技基础条件平台中心
 
-中国
+N/A
 
 2018.03
 
-### 第十五届用户大会'优秀志愿者'
+### 第十五届用户大会“优秀志愿者”
 
 易智瑞(中国)信息技术有限公司
 
-中国
+N/A
 
 2017.09
 
@@ -274,7 +274,7 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 中国科学院大学
 
-中国北京
+N/A
 
 2017.06
 
@@ -282,7 +282,7 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 中国测绘学会,易智瑞(中国)信息技术有限公司
 
-中国
+N/A
 
 2015.11
 
@@ -290,23 +290,23 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 福建师范大学
 
-中国福州
+N/A
 
 2015.11
 
-### 第十四届'挑战杯'全国大学生课外学术科技作品竞赛'智慧城市'专项赛全国三等奖
+### 第十四届'挑战杯'全国大学生课外学术科技作品竞赛“智慧城市”专项赛全国三等奖
 
 共青团中央, 中国科协, 教育部, 全国学联
 
-中国
+N/A
 
 2015.07
 
-### 福建师范大学首届'年度学生人物'提名奖与科技创新奖
+### 福建师范大学首届“年度学生人物”提名奖与科技创新奖
 
 福建师范大学
 
-中国福州
+N/A
 
 2015.05
 
@@ -314,7 +314,7 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 福建师范大学
 
-中国福州
+N/A
 
 2015.03
 
@@ -322,7 +322,7 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 福建师范大学
 
-中国福州
+N/A
 
 2014.11
 
@@ -330,38 +330,38 @@ The Applied Energy Innovation Institute, 清华大学地球系统科学系, Chin
 
 中国优选法统筹法与经济数学研究会
 
-中国
+N/A
 
 2014.07
 
-### 2013-2014学年福建师范大学'优秀学生社团干部'
+### 2013-2014学年福建师范大学“优秀学生社团干部”
 
 福建师范大学
 
-中国福州
+N/A
 
 2014.05
 
-### 2013-2014学年福建师范大学地理科学学院'优秀共青团员干部'
+### 2013-2014学年福建师范大学地理科学学院“优秀共青团员干部”
 
 福建师范大学地理科学学院
 
-中国福州
+N/A
 
 2014.05
 
-### 2012-2013学年福建师范大学地理科学学院'优秀共青团员干部'
+### 2012-2013学年福建师范大学地理科学学院“优秀共青团员干部”
 
 福建师范大学地理科学学院
 
-中国福州
+N/A
 
 2013.05
 
 学术职务 & 机构 {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### 空间生命历程流行病学研究中心
+### 空间全生命周期健康国际研究中心
 
 成员
 
@@ -388,7 +388,7 @@ N/A
 
 ### GISphere
 
-编委,成员
+编委,理事会成员,公众号负责人
 
 N/A
 
@@ -426,7 +426,7 @@ N/A
 
 2013-2017
 
-### European Heart Journal, Sustainable Cities and Society, Cities, Frontiers in Public Health, Frontiers in Environmental Science, International Journal of Digital Earth, Scientific Reports, Data in Brief, The Journal of Open Source Software, 上海城市规划
+### European Heart Journal, Sustainable Cities and Society, Cities, Methods in Ecology and Evolution, International Journal of Digital Earth, Frontiers in Public Health, Frontiers in Environmental Science, Scientific Reports, Data in Brief, The Journal of Open Source Software, 上海城市规划
 
 审稿人
 
@@ -873,7 +873,7 @@ N/A
 
 第十六次空间行为与规划研究会暨数字化与精细化治理学术研讨会, abstract.
 
-Xiamen, China
+中国,厦门
 
 2020
 
@@ -882,7 +882,7 @@ Xiamen, China
 ### The night light uncovers city’s weight—A case study on estimating construction materials in Fuzhou, China.
 10th International Conference on Industrial Ecology, abstract 320
 
-Qingdao, China
+中国,青岛
 
 2019
 
@@ -892,7 +892,7 @@ Jiajia Li, Yupeng Liu, **Shaoqing Dai**, Keying. Xiang, Huixian. Jiang, Weiqiang
 
 第十一届中国R语言会议, abstract.
 
-Beijing, China
+中国,北京
 
 2018
 
@@ -901,7 +901,7 @@ Beijing, China
 ### High-resolution mapping of direct CO<SUB>2</SUB> emissions and uncertainties at the urban scale.
 Proceedings of Spatial Accuracy 2018. 88-90. [EI]
 
-Beijing, China
+中国,北京
 
 2018
 
@@ -911,7 +911,7 @@ Beijing, China
 
 Proceedings of Spatial Accuracy 2018. 80-83. [EI]
 
-Beijing, China
+中国,北京
 
 2018
 
@@ -921,7 +921,7 @@ Beijing, China
 
 American Geophysical Union, Fall Meeting 2017, abstract GC21G-1007.
 
-New Orleans, America
+美国,新奥尔良
 
 2017
 
@@ -931,7 +931,7 @@ Shudi Zuo, **Shaoqing Dai**, Yin Ren, Zhaowu Yu
 
 第九届中国景观生态学学术研讨会, abstract.
 
-Guangzhou, China
+中国,广州
 
 2017
 
@@ -942,7 +942,7 @@ Guangzhou, China
 
 2017年中国地理学会经济地理专业委员会学术年会论文摘要集, abstract.
 
-Dujiangyan, China
+中国,都江堰
 
 2017
 
@@ -952,7 +952,7 @@ Dujiangyan, China
 
 第九届现代生态学讲座, abstract.
 
-Shanghai, China
+中国,上海
 
 2017
 
@@ -962,7 +962,7 @@ Shanghai, China
 
 第十二次空间行为与规划研究会暨时空间行为与城市社会规划研究学术研讨会, abstract.
 
-Beijing, China
+中国,北京
 
 2016
 
@@ -972,7 +972,7 @@ Beijing, China
 
 10th annual conference of International Association of China Planning, abstract 1813.
 
-Beijing, China
+中国,北京
 
 2017
 
@@ -982,7 +982,7 @@ Beijing, China
 
 2016 International Low Impact Development Conference, paper 391.
 
-Beijing, China
+中国,北京
 
 2017
 
@@ -1010,67 +1010,27 @@ N/A
 
 **Shaoqing Dai**, Shudi Zuo, Yin Ren.
 
-出版物-投稿/返修论文 {data-icon=book}
---------------------------------------------------------------------------------
-### Street view imagery for built environment auditing: a systematic review.
-
-International Journal of Geographical Information Science. [审稿].
-
-N/A
-
-N/A
-
-**Shaoqing Dai**, Alfred Stein, Yuchen Li, Shujuan Yang, Peng Jia.
-
-### Assessing Spatiotemporal Bikeability Using Multi-Source Geospatial Big Data: A Case Study of Xiamen, China.
-
-International Journal of Applied Earth Observation and Geoinformation. [审稿].
-
-N/A
-
-N/A
-
-**Shaoqing Dai**, Wufan Zhao, Yanwen Wang, Xiao Huang, Zhidong Chen, Jinghan Lei, Alfred Stein, Peng Jia.
-
-### Mapping of hourly street-level PM2.5 concentrations using an ensemble-random forest model and multi-source geospatial data.
-
-Environmental Science & Technology. [投稿].
-
-N/A
-
-N/A
-
-**Shaoqing Dai**, Frank Badu Osei, Peng Jia, Alfred Stein.
-
-### Integrating Spatial Statistics and Machine Learning to Analyze Error Sources in Estimating Forest Aboveground Biomass from Airborne LiDAR Data.
-
-. [返修].
-
-N/A
-
-N/A
-
-Xiaoman Zheng, **Shaoqing Dai**,  Qi Chen, Kim Calders, Chengdong Xu, Xiaohua Wei, Mazhan Zhuang, Yin Ren.
-
-
-### Impacts of and vulnerability to the COVID-19 pandemic: a planetary health perspective.
-
-. [审稿].
-
-N/A
-
-N/A
-
-Peng Jia, Tong Wu, **Shaoqing Dai**, Ross C. Brownson, Yan Kestens, Miyang Luo, Shiyong Liu, Jing Su, Gordon
-G. Liu, Shujuan Yang.
-
-
-
 科研项目 {data-icon=building-o}
 --------------------------------------------------------------------------------
+### 老年人及儿童社区居家环境健康风险评价与防范及适宜产品开发
+
+国家重点研发计划(2023YFC3604704), **参与**
+
+N/A
+
+2023-2026
+
+### 城市社区空间宜步行性对儿童肥胖的影响机制研究
+
+国家自然科学基金面上项目(42271433), **参与**
+
+N/A
+
+2022-2025
+
 ### COVID-19 大流行下居民日常行为，生活方式与城市建成环境的演变规律研究
 
-2020 年度’ 清华-腾讯’ 新兴技术 × 未来城市空间项目’WeSpace 学术支持计划’, **PI**
+2020 年度“清华-腾讯"新兴技术 × 未来城市空间项目"WeSpace 学术支持计划", **主持**
 
 N/A
 
@@ -1079,7 +1039,7 @@ N/A
 
 ### 基于GIS和多源遥感数据的福建省台风灾害评价指数构建
 
-数字福建自然灾害监测大数据研究所开放基金(NDMBD2018001), **Investigator**.
+数字福建自然灾害监测大数据研究所开放基金(NDMBD2018001), **参与**.
 
 N/A
 
@@ -1087,7 +1047,7 @@ N/A
 
 ### 长三角城市群生态安全保障关键技术研究与集成示范
 
-国家重点研发计划(2016YFC0502704), **Investigator**.
+国家重点研发计划(2016YFC0502704), **参与**.
 
 N/A
 
@@ -1095,44 +1055,36 @@ N/A
 
 ### 基于ETKF-3DVAR混合同化的桉树人工林碳固定尺度扩展研究
 
-国家自然科学基金面上项目(31470578), **Investigator**.
+国家自然科学基金面上项目(31470578), **参与**.
 
 N/A
 
 2015-2018
 
-### 基于空间错位理论的福建省旅游业发展时空差异研究
-
-福建师范大学大学生创新创业训练计划(创新训练类)项目(cxxl-2015137), **Investigator**.
-
-N/A
-
-2015-2016
-
-### 基于GIS的福州市仓山区医疗设施空间布局优化评价
-
-福建师范大学大学生创新创业训练计划(创新训练类)项目(cxxl-2015146), **Investigator**.
-
-N/A
-
-2015-2016
 
 ### 地震灾害下高校人员疏散及避难安置空间优化模型研究
 
-福建师范大学大学生创新创业训练计划(创新训练类)项目(cxxl-2014137), **PI**.
+福建师范大学大学生创新创业训练计划(创新训练类)项目(cxxl-2014137), **主持**.
 
 N/A
 
 2014-2015
 
-汇报 {data-icon=comment}
+学术报告 {data-icon=comment}
 --------------------------------------------------------------------------------
+### 基于空间全生命周期流行⯵学Ṷᷦ的健康地理学研究
+
+中国科学院城市环境研究所
+
+中国,厦门
+
+2024.1
 
 ### 兴趣引导创造的火花，但坚持才能星火燎原
 
-福建省厦门第一中学高一三班
+福建省厦门第一中学
 
-中国, 福建省厦门第一中学
+中国,厦门
 
 2023.5
 
@@ -1140,7 +1092,7 @@ N/A
 
 The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScience for Public Health
 
-中国，中国地质大学 (北京)
+中国北京
 
 2022.8
 
@@ -1148,15 +1100,15 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 
 第十六次空间行为与规划研究会暨数字化与精细化管理学术研讨会
 
-中国厦门,厦门大学
+中国,厦门
 
 2020.12
 
 ### 什么是地理学——从新冠疫情到北斗卫星
 
-同安第一中学地理组
+同安第一中学
 
-中国厦门, 福建省同安第一中学
+中国,厦门
 
 2020.08
 
@@ -1164,7 +1116,7 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 
 第十一届中国R语言会议
 
-中国北京,人民大学
+中国,北京
 
 2018.05
 
@@ -1172,7 +1124,7 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 
 13th International Symposium on Spatial Accuracy Assessment in Natural Resources and Environmental Sciences(Spatial Accuracy 2018)
 
-中国北京,国家会议中心
+中国,北京
 
 2018.05
 
@@ -1180,7 +1132,7 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 
 第九届中国景观生态学学术研讨会
 
-中国广州,三寓宾馆
+中国,广州
 
 2017.11
 
@@ -1188,7 +1140,7 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 
 第二届城市环境长期观测与可持续发展研讨会
 
-中国上海,上海师范大学
+中国,上海
 
 2017.09
 
@@ -1196,7 +1148,7 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 
 第十二次空间行为与规划研究会暨时空间行为与城市社会规划研究学术研讨会
 
-中国北京,北京联合大学
+中国,北京
 
 2016.11
 
@@ -1204,17 +1156,17 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 
 10th annual conference of International Association of China Planning
 
-中国北京,北京大学
+中国,北京
 
 2016.07
 
-壁报 {data-icon=image}
+海报张贴 {data-icon=image}
 --------------------------------------------------------------------------------
 ### Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution
 
 2017 AGU Fall Meeting
 
-New Orleans, LA, USA
+美国,新奥尔良
 
 2017.12
 
@@ -1222,7 +1174,7 @@ New Orleans, LA, USA
 
 第九届现代生态学讲座
 
-中国上海
+中国,上海
 
 2017.05
 
@@ -1230,11 +1182,6 @@ New Orleans, LA, USA
 
 2016 International Low Impact Development Conference
 
-中国北京,国家会议中心
+中国,北京
 
 2016.06
-
-语言 {data-icon=comments-o}
---------------------------------------------------------------------------------
-#### Chinese:母语  
-#### English:第一外语

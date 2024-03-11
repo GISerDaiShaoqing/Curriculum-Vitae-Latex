@@ -3,6 +3,7 @@
 
 % moderncv definition
 \documentclass[11pt,a4paper,sans]{moderncv}
+ \raggedright
 \moderncvstyle{classic}
 \moderncvcolor{blue}
 
@@ -37,8 +38,10 @@
 \newcommand{\mycvitemac}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\textbf{#3}}}
 \newcommand{\mycvitemacl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\textbf{#3}}}
 \newcommand{\mycvitemEDU}[8]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}, {#4}\vfill{#5}\vfill{Thesis:}\textit{#6}\vfill{Major in }{#7}\hfill\faMapMarker\ {#8}}}
-\newcommand{\mycvitemPP}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\faMapMarker\ {#3}}}
-\newcommand{\mycvitemPPl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\faMapMarker\ {#3}}}
+%\newcommand{\mycvitemPP}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\faMapMarker\ {#3}}}
+\newcommand{\mycvitemPP}[2]{\cvitem{\faCalendarO\hfill{#1}}{{#2}}}
+%\newcommand{\mycvitemPPl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\faMapMarker\ {#3}}}
+\newcommand{\mycvitemPPl}[2]{\cvitem{\faCalendarO\hfill{#1}}{{#2}}}
 \newcommand{\mycvitemXP}[4]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}\vfill\hfill\faMapMarker\ {#4}}}
 
 % Identifying information
@@ -96,6 +99,7 @@
      \input{education}
 	%\vfill
      \input{interests}
+     \input{publications}
      \input{software}
 	\nocite{*}
      	%\printbibliography[heading=none]
@@ -104,11 +108,11 @@
 	%\vfill
      \input{awards}
      \input{activities}
-	\input{publications}
+	%\input{publications}
      \input{researches}
      \input{presentation}
      \input{poster}
-     \input{language}
+     %\input{language}
      \input{skills}
 	%\section{\texorpdfstring{\faLaptop\ Skills}{Skills}}
 		%\cvdoubleitem{Scripting}{Groovy, Bash, Python, Perl, Java, R}{Pipeline}{Nextflow}
