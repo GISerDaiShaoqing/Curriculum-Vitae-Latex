@@ -164,6 +164,15 @@ N/A
 
 奖励&荣誉{data-icon=suitcase}
 --------------------------------------------------------------------------------
+### 支援新冠疫情管控工作表彰
+
+内蒙古自治区土默特左旗卫生健康委员会
+
+N/A
+
+2022.03
+
+
 ### 第五届城垣杯规划决策支持模型设计大赛二等奖.
 
 北京城垣数字科技有限责任公司, 世界规划教育组织, 北规院弘都规划建筑设计研究院有限公司, 北京城市实验室, 百度地图慧眼, 中国联通智慧足迹
@@ -436,6 +445,17 @@ N/A
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### Long-term dynamic monitoring and driving force analysis of eco-environmental quality in China
+Remote Sensing. 16(6): 1028 doi:10.3390/rs16061028. [SCI, IF = 5.0].
+
+N/A
+
+2024
+
+Weiwei Zhang, Zixi Liu, Kun Qin, **Shaoqing Dai**, Huiyuan Lu, Miao Lu, Jianwan Ji, Zhaohui Yang, Chao Chen,
+Peng Jia.
+
+
 ### Mixed land use has opposite associations with subjective well-being through social capital: Spatial heterogeneity in residential and workplace neighborhoods
 
 Travel Behaviour and Society.35, 100724. doi:10.1016/j.tbs.2023.100724. [SSCI, IF = 5.2].
