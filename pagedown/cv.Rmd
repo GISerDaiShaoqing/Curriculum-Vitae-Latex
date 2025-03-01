@@ -51,7 +51,7 @@ Aside
 #datadrivencv::build_network_logo(CV$entries_data)
 ```
 
-![戴劭勍](http://science.gisersqdai.top/20150924213710582189-965.jpg){height=50%, width=50%}
+![戴劭勍](https://science.gisersqdai.top/shaoqingdai.jpg){height=50%, width=50%}
 
 
 ```{r}
@@ -102,6 +102,13 @@ Shaoqing Dai {#title}
 #CV %<>% print_text_block("intro") 
 ```
 
+
+Working Experience {data-icon=building data-concise=true}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('work')
+```
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -169,11 +176,11 @@ Publications-Software Copyright {data-icon=file}
 CV %<>% print_section('academic_softcopy')
 ```
 
-Publications-Conference Paper & Abstract {data-icon=file}
+<!--Publications-Conference Paper & Abstract {data-icon=file}-->
 --------------------------------------------------------------------------------
 
 ```{r}
-CV %<>% print_section('academic_confpaper')
+#CV %<>% print_section('academic_confpaper')
 ```
 
 Publications-Open Dataset & Code {data-icon=file}
@@ -183,11 +190,11 @@ Publications-Open Dataset & Code {data-icon=file}
 CV %<>% print_section('academic_code')
 ```
 
-Publications-Papers submitted/under revision {data-icon=book}
+<!--Publications-Papers submitted/under revision {data-icon=book}-->
 --------------------------------------------------------------------------------
 
 ```{r}
-CV %<>% print_section('academic_paperrs')
+#CV %<>% print_section('academic_paperrs')
 ```
 
 Research Projects {data-icon=building-o}
@@ -204,6 +211,14 @@ Presentations {data-icon=comment}
 CV %<>% print_section('academic_pres')
 ```
 
+Teaching Experiences {data-icon=comment}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('teaching_experience')
+```
+
+
 Selected Posters {data-icon=image}
 --------------------------------------------------------------------------------
 
@@ -213,5 +228,5 @@ CV %<>% print_section('academic_posters')
 
 
 ```{r}
-CV %<>% print_links()
+#CV %<>% print_links()
 ```

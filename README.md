@@ -4,7 +4,7 @@ Template from: https://github.com/leouieda/cv & https://github.com/seisman/cv & 
 
 Reference websites include https://www.xiangsun.org/tex/notes-on-moderncv#i-5 & http://www.fontawesome.com.cn/faicons/
 
-Preview my CV [here](cv.pdf).
+Preview my CV [here](enlatex/cv.pdf).
 
 Preview my Chinese CV [here](cnlatex/template-zh.pdf).
 
@@ -12,4 +12,4 @@ Preview my Chinese CV [here](cnlatex/template-zh.pdf).
 
 [html version cv chinese](http://gisersqdai.top/mycv/template-zh.html)
 
-XeLaTex
+LaTeX Engine: XeLaTex
