@@ -236,7 +236,7 @@ N/A
 
 2019.01
 
-### 2018年硕士国家奖学金.
+### 2018年硕士国家奖学金
 
 中国教育部
 
@@ -930,6 +930,26 @@ N/A
 
 **戴劭勍**, 江辉仙, 李佳佳, 苏娴, 吴娟, 任引.
 
+### High-resolution mapping of direct CO$_2$ emissions and uncertainties at the urban scale
+
+Proceedings of Spatial Accuracy 2018. 88-90. [EI]
+
+N/A
+
+2018
+
+**Shaoqing Dai**, Shudi Zuo, Yin Ren.
+
+### Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics
+
+Proceedings of Spatial Accuracy 2018. 80-83. [EI]
+
+N/A
+
+2018
+
+**Shaoqing Dai#**, Xiaoman Zheng#, Shudi Zuo, Yin Ren.
+
 ### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale
 
 Remote Sensing. 2018, 10(4), 521. doi:10.3390/rs10040521. [SCI, IF = 4.2].
@@ -993,6 +1013,17 @@ N/A
 史源源, **戴劭勍**, 贾鹏.
 
 
+### 融合多源异构时空大数据的共享单车骑行友好度评价研究 
+
+城垣杯·规划决策支持模型设计大赛获奖作品集(2021) 北京城市规划设计研究院, 北京城垣数字科技有限责任公司, 世界规划教育组织, 北规院弘都规划建筑设计研究院有限公司 编, 北京: 中国建筑工业出版社. IBSN: 9787112270439
+
+N/A
+
+2022
+
+**戴劭勍**, 陈志东, 雷璟晗, 王彦文.
+
+
 ### Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale 
 
 In Advances in Quantitative Remote Sensing in China–In Memory of Prof. Xiaowen Li, edited by Shunlin Liang, Guangjian Yan, Jiancheng Shi, Remote Sensing, MDPI, 2019, 316-332. IBSN: 978-3-03897-276-1 https://doi.org/10.3390/books978-3-03897-277-8
@@ -1016,7 +1047,7 @@ N/A
 任引, 郑小曼, **戴劭勍**, 陈奇, 左舒翟.
 
 
-###  一种多源数据融合的森林资源清查生物量估算模型
+###  一种融合样地数据与森林资源清查数据的生物量估算方法
 
 CN110162872A
 
@@ -1027,7 +1058,7 @@ N/A
 任引, **戴劭勍**, 左舒翟, 郑小曼.
 
 
-###  一种预测大面积亚热带森林生物量的混合效应模型
+###  一种预测亚热带森林生物量的方法
 
 CN108959705A
 
@@ -1055,6 +1086,19 @@ N/A
 N/A
 
 2018
+
+出版物-科学技术成果 {data-icon=file}
+--------------------------------------------------------------------------------
+### 基于ETKF-3DVAR混合同化的桉树人工林碳固定尺度扩展研究.
+
+中国科学院城市环境研究所,厦门理工学院, 90000890-2349, 厦门市科技局.
+
+N/A
+
+2023
+
+任引, 左舒翟, 花利忠, **戴劭勍**.
+
 
 出版物-开放数据 & 代码 {data-icon=file}
 --------------------------------------------------------------------------------
@@ -1299,7 +1343,7 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 --------------------------------------------------------------------------------
 ### "3S 技术，信息通讯技术，基于位置服务与人工智能在健康地理中的应用"
 
-武汉大学资源与环境科学学院本科生课程
+武汉大学资源与环境科学学院本科生课程《健康地理学》
 
 60人，4课时
 
@@ -1315,7 +1359,7 @@ The 29th International Conference on Geoinformatics in 2022 session 10-2 GIScien
 
 ### "3S 技术，信息通讯技术，基于位置服务，人工智能与复杂科学在健康地理中的应用"
 
-武汉大学资源与环境科学学院研究生课程
+武汉大学资源与环境科学学院研究生课程《健康地理学》
 
 16人，9课时
 
