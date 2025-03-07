@@ -51,7 +51,7 @@ Aside
 #datadrivencv::build_network_logo(CV$entries_data)
 ```
 
-![戴劭勍](https://science.gisersqdai.top/shaoqingdai.jpg){height=50%, width=50%}
+![戴劭勍](https://science.gisersqdai.top/shaoqingdai_new.png){height=50%, width=50%}
 
 
 ```{r}
