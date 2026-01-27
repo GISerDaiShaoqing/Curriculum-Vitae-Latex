@@ -38,6 +38,7 @@
 \newcommand{\mycvitemac}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\textbf{#3}}}
 \newcommand{\mycvitemacl}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\vfill\hfill\textbf{#3}}}
 \newcommand{\mycvitemEDU}[8]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}, {#4}\vfill{#5}\vfill{Thesis:}\textit{#6}\vfill{Major in }{#7}\hfill\faMapMarker\ {#8}}}
+%\newcommand{\mycvitemEDU}[6]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}, {#4}\vfill{Major in }{#5}\hfill\faMapMarker\ {#6}}}
 \newcommand{\mycvitemCOM}[5]{\cvitem{\faCalendarO\hfill{#1}}{\textbf{#2}, \textit{#3}, {#4}\vfill{#5}}}
 %\newcommand{\mycvitemPP}[3]{\cvitem{\faCalendarO\hfill{#1}}{{#2}\hfill\faMapMarker\ {#3}}}
 \newcommand{\mycvitemPP}[2]{\cvitem{\faCalendarO\hfill{#1}}{{#2}}}
@@ -87,7 +88,7 @@
 % Picture
 %\photo[42pt][2pt]{dsq.png}
 %\photo[42pt][2pt]{shaoqingdai_n.png}
-\photo[42pt][2pt]{shaoqingdai_new.png}
+\photo[42pt][2pt]{banana_me.png}
 % Quote
 %\quote{Urban, Ecology, GIS}
 \quote{\footnotesize Last updated: \today}
@@ -102,22 +103,29 @@
 	%\vfill
 	\input{employment}
      \input{education}
+    %\input{education_selected}
 	%\vfill
      \input{interests}
      \input{publications}
+     %\input{publications_selected}
 	\nocite{*}
      	%\printbibliography[heading=none]
 	% \printbibliography[type=article,heading=subbibliography,title={Articles}]
 	% \printbibliography[type=inbook,heading=subbibliography,title={Chapters}]
 	%\vfill
      \input{awards}
-	 \input{software}
+	 %\input{awards_selected}
+     \input{software}
+     %\input{software_selected}
 	%\input{publications}
      \input{researches}
+     %\input{researches_selected}
      \input{presentation}
-     \input{poster}
+     %\input{presentation_n5}
+     %\input{poster}
 	 \input{activities}
-	 \input{teaching}
+	 %\input{activities_selected}
+     \input{teaching}
      %\input{language}
      %\input{skills}
 	%\section{\texorpdfstring{\faLaptop\ Skills}{Skills}}

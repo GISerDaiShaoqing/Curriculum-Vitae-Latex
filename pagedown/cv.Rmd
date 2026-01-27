@@ -22,7 +22,7 @@ source("CV_printing_functions.R")
 
 # Read in all data and initialize a CV printer object
 CV <- create_CV_object(
-  data_location = "https://docs.google.com/spreadsheets/d/1kRdIfpCs_6YTUw3iuoy7tU9l_1mNQ_U7AXtFgrB0Qgk/edit#gid=917338460",  
+  data_location = "data/",  
   pdf_mode = params$pdf_mode
 )
 
@@ -51,7 +51,7 @@ Aside
 #datadrivencv::build_network_logo(CV$entries_data)
 ```
 
-![戴劭勍](https://science.gisersqdai.top/shaoqingdai_new.png){height=50%, width=50%}
+![戴劭勍](https://science.gisersqdai.top/banana_me.png){height=50%, width=50%}
 
 
 ```{r}
