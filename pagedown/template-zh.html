@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="戴劭勍" />
-    <meta name="date" content="2026-01-27" />
+    <meta name="date" content="2026-01-28" />
     <title>戴劭勍简历</title>
 
             <!-- dynamically load mathjax for compatibility with self-contained -->
@@ -31769,7 +31769,7 @@ width: unset;
       const anchors = content.querySelectorAll('a[href^="#"]:not([href*=":"])');
       for (const a of anchors) {
         const ref = a.getAttribute('href').replace(/^#/, '');
-        const element = content.getElementById(ref);
+        const element = content.getElementById(decodeURIComponent(ref));
         if (frontMatter.contains(element)) a.classList.add('front-matter-ref');
       }
 
@@ -32008,7 +32008,7 @@ width: unset;
       const tocAnchors = content.querySelectorAll('.toc a[href^="#"]:not([href*=":"]');
       for (const anchor of tocAnchors) {
         const ref = anchor.getAttribute('href').replace(/^#/, '');
-        const element = content.getElementById(ref);
+        const element = content.getElementById(decodeURIComponent(ref));
         if (element.classList.contains('chapter')) {
           anchor.classList.add('chapter-ref');
         }
@@ -32381,7 +32381,7 @@ width: unset;
 <div id="disclaimer" class="section level2">
 <h2>Disclaimer</h2>
 <p>这份简历依赖于R语言包<a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>.</p>
-<p>最近更新: 2026-01-27.</p>
+<p>最近更新: 2026-01-28.</p>
 </div>
 </div>
 <div id="main" class="section level1">
@@ -32806,7 +32806,7 @@ width: unset;
 </div>
 <div id="同行评议期刊-会议审稿人" class="section level3">
 <h3>同行评议期刊 &amp; 会议审稿人</h3>
-<p>European Heart Journal, Resources, Conservation and Recycling, Applied Energy, Sustainable Cities and Society, International Journal of Geographical Information Science, Cities, Information Processing &amp; Management, Ecological Indicators, Methods in Ecology and Evolution, International Journal of Digital Earth, GIScience &amp; Remote Sensing, Forest Ecology &amp; Management, Scientific Data, Carbon Management, City and environment interactions, Transactions in Urban Data, Science, and Technology, Frontiers in Public Health, Frontiers in Environmental Science, Frontiers in Earth Science, Scientific Reports, Data in Brief, Applied Economic Letters, Children, HealthCare, The Journal of Open Source Software, Urban &amp; BuildingScience, 上海城市规划, IPSRS Conference 2026, CPGIS Conference, Biology and Life Sciences Forum</p>
+<p>European Heart Journal, Resources, Conservation and Recycling, Applied Energy, Sustainable Cities and Society, International Journal of Geographical Information Science, Cities, Information Processing &amp; Management, Ecological Indicators, Methods in Ecology and Evolution, International Journal of Digital Earth, GIScience &amp; Remote Sensing, Information Geography, Forest Ecology &amp; Management, Scientific Data, Carbon Management, City and environment interactions, Transactions in Urban Data, Science, and Technology, Frontiers in Public Health, Frontiers in Environmental Science, Frontiers in Earth Science, Scientific Reports, Data in Brief, Applied Economic Letters, Children, HealthCare, The Journal of Open Source Software, Urban &amp; BuildingScience, 上海城市规划, IPSRS Conference, CPGIS Conference, Biology and Life Sciences Forum</p>
 <p>审稿人</p>
 <p>2019-</p>
 </div>

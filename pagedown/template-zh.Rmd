@@ -610,7 +610,7 @@ GISphere
 
 ### 同行评议期刊 & 会议审稿人
 
-European Heart Journal, Resources, Conservation and Recycling, Applied Energy, Sustainable Cities and Society, International Journal of Geographical Information Science, Cities, Information Processing & Management, Ecological Indicators, Methods in Ecology and Evolution, International Journal of Digital Earth, GIScience & Remote Sensing, Forest Ecology & Management, Scientific Data, Carbon Management, City and environment interactions, Transactions in Urban Data, Science, and Technology, Frontiers in Public Health, Frontiers in Environmental Science, Frontiers in Earth Science, Scientific Reports, Data in Brief, Applied Economic Letters, Children, HealthCare, The Journal of Open Source Software, Urban & BuildingScience, 上海城市规划, IPSRS Conference 2026, CPGIS Conference, Biology and Life Sciences Forum 
+European Heart Journal, Resources, Conservation and Recycling, Applied Energy, Sustainable Cities and Society, International Journal of Geographical Information Science, Cities, Information Processing & Management, Ecological Indicators, Methods in Ecology and Evolution, International Journal of Digital Earth, GIScience & Remote Sensing, Information Geography, Forest Ecology & Management, Scientific Data, Carbon Management, City and environment interactions, Transactions in Urban Data, Science, and Technology, Frontiers in Public Health, Frontiers in Environmental Science, Frontiers in Earth Science, Scientific Reports, Data in Brief, Applied Economic Letters, Children, HealthCare, The Journal of Open Source Software, Urban & BuildingScience, 上海城市规划, IPSRS Conference, CPGIS Conference, Biology and Life Sciences Forum 
 
 审稿人
 

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Shaoqing Dai" />
-    <meta name="date" content="2026-01-27" />
+    <meta name="date" content="2026-01-28" />
     <title>Shaoqing Dai’s CV</title>
 
     
@@ -31742,7 +31742,7 @@ width: unset;
       const anchors = content.querySelectorAll('a[href^="#"]:not([href*=":"])');
       for (const a of anchors) {
         const ref = a.getAttribute('href').replace(/^#/, '');
-        const element = content.getElementById(ref);
+        const element = content.getElementById(decodeURIComponent(ref));
         if (frontMatter.contains(element)) a.classList.add('front-matter-ref');
       }
 
@@ -31981,7 +31981,7 @@ width: unset;
       const tocAnchors = content.querySelectorAll('.toc a[href^="#"]:not([href*=":"]');
       for (const anchor of tocAnchors) {
         const ref = anchor.getAttribute('href').replace(/^#/, '');
-        const element = content.getElementById(ref);
+        const element = content.getElementById(decodeURIComponent(ref));
         if (element.classList.contains('chapter')) {
           anchor.classList.add('chapter-ref');
         }
@@ -32691,7 +32691,7 @@ RS &amp; Earth Observation
 <h2>Disclaimer</h2>
 <p>Made with the R package <a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>.</p>
 <p>The source code is available <a href="https://github.com/GISerDaiShaoqing/Curriculum-Vitae-Latex">on GISerDaiShaoqing/Curriculum-Vitae-Latex</a>.</p>
-<p>Last updated on 2026-01-27.</p>
+<p>Last updated on 2026-01-28.</p>
 </div>
 </div>
 <div id="main" class="section level1">
@@ -33192,7 +33192,7 @@ Normal University</li>
 </div>
 <div id="peer-reviewer-journal-conference-reviewer" class="section level3">
 <h3>Peer-reviewer Journal &amp; Conference Reviewer</h3>
-<p>European Heart Journal, Resources, Conservation and Recycling, Applied Energy, Sustainable Cities and Society, International Journal of Geographical Information Science, Habitat International, Cities,Information Processing &amp; Management, Ecological Indicators, Methods in Ecology and Evolution,International Journal of Digital Earth, GIScience &amp; Remote Sensing, Forest Ecology &amp; Management,Scientific Data, Carbon Management, City and environment interactions, Transactions in UrbanData, Science, and Technology, Frontiers in Public Health, Frontiers in Environmental Science,Frontiers in Earth Science, Scientific Reports, Data in Brief, Applied Economic Letters, Children,HealthCare, The Journal of Open Source Software, Urban &amp; BuildingScience, Shanghai UrbanPlanning Review, IPSRS Conference 2026, CPGIS Conference, Biology and Life Sciences Forum</p>
+<p>European Heart Journal, Resources, Conservation and Recycling, Applied Energy, Sustainable Cities and Society, International Journal of Geographical Information Science, Habitat International, Cities, Information Processing &amp; Management, Ecological Indicators, Methods in Ecology and Evolution, International Journal of Digital Earth, GIScience &amp; Remote Sensing, Information Geography, Forest Ecology &amp; Management, Scientific Data, Carbon Management, City and environment interactions, Transactions in Urban Data, Science, and Technology, Frontiers in Public Health, Frontiers in Environmental Science, Frontiers in Earth Science, Scientific Reports, Data in Brief, Applied Economic Letters, Children, HealthCare, The Journal of Open Source Software, Urban &amp; BuildingScience, Shanghai Urban Planning Review, IPSRS Conference, CPGIS Conference, Biology and Life Sciences Forum</p>
 <p>N/A</p>
 <p>Current - 2019</p>
 <ul>
