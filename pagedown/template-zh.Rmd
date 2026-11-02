@@ -538,6 +538,14 @@ GISphere
 
 ### 会议 & 学会服务
 
+GISphere GISsalon 第49期(GIS×健康)
+
+圆桌嘉宾
+
+2026
+
+### 会议 & 学会服务
+
 中国地理学会
 
 会员
@@ -642,7 +650,7 @@ GISphere
 
 ### 同行评议期刊 & 会议审稿人
 
-**健康与流行病学**: European Heart Journal, BMC Public Health, Frontiers in Public Health, HealthCare, Children, Artificial Intelligence in Emergency Medicine, Biology and Life Sciences Forum; **地理信息、遥感与空间分析**: GIScience & Remote Sensing, International Journal of Geographical Information Science, International Journal of Digital Earth, Spatial Statistics, Information Geography, ISPRS Conference, CPGIS Conference; **环境与生态**: Ecological Indicators, Environmental Research, Methods in Ecology and Evolution, City and Environment Interactions, Environmental Modelling & Software, Frontiers in Environmental Science, Frontiers in Forests and Global Change, Forest Ecology & Management, Regional Environmental Change, Environmental Modeling & Assessment, Frontiers in Earth Science; **城市与建成环境**: Sustainable Cities and Society, Habitat International, Cities, Frontiers of Architectural Research, Journal of Asian Architecture and Building Engineering, Urban & Building Science, Shanghai Urban Planning Review; **能源、资源与碳**: Applied Energy, Resources, Conservation and Recycling, Carbon Balance and Management, Carbon Management; **数据、计算与开放科学**: Information Processing & Management, Scientific Data, Sensors, Data in Brief, The Journal of Open Source Software, Transactions in Urban Data, Science, and Technology; **综合与其他**: Scientific Reports, Sustainability, Applied Economics Letters, Heliyon, Discover Global Society
+**健康与流行病学**: European Heart Journal, BMC Public Health, Frontiers in Public Health, HealthCare, Children, Artificial Intelligence in Emergency Medicine, Biology and Life Sciences Forum, International Journal of Environmental Research and Public Health; **地理信息、遥感与空间分析**: GIScience & Remote Sensing, International Journal of Geographical Information Science, International Journal of Digital Earth, Spatial Economic Analysis, Spatial Statistics, Geographies, Information Geography, ISPRS Conference, CPGIS Conference; **环境与生态**: Ecological Indicators, Environmental Research, Methods in Ecology and Evolution, City and Environment Interactions, Environmental Modelling & Software, Frontiers in Environmental Science, Frontiers in Forests and Global Change, Forest Ecology & Management, Regional Environmental Change, Atmospheric Pollution Research, Environmental Modeling & Assessment, Frontiers in Earth Science; **城市与建成环境**: Sustainable Cities and Society, Habitat International, Cities, Frontiers of Architectural Research, Journal of Asian Architecture and Building Engineering, Urban & Building Science, Discover Cities, Shanghai Urban Planning Review; **能源、资源与碳**: Applied Energy, Resources, Conservation and Recycling, Carbon Balance and Management, Carbon Management; **数据、计算与开放科学**: Information Processing & Management, Scientific Data, Sensors, Data in Brief, The Journal of Open Source Software, Transactions in Urban Data, Science, and Technology; **综合与其他**: Scientific Reports, Sci, Sustainability, Applied Economics Letters, Heliyon, Discover Global Society
 
 审稿人
 
@@ -650,6 +658,16 @@ GISphere
 
 出版物-期刊论文 {data-icon=file}
 --------------------------------------------------------------------------------
+### Co-exposure to CO2 and heatwaves and the risk for diabetes: a multi-center spatial epidemiological study in China
+
+BMC Medicine. 24. doi:10.1186/s12916-026-05197-w. [SCI, IF=8.7]
+
+N/A
+
+2026
+
+Manyao Li, Lan Zhang, Yuanyuan Shi\*, Shuhan Yang, Kun Qin, Zhanpeng Wang, Chen Li, Bin Yu, **Shaoqing Dai**, Xiaoqing Li, Ying Shao, Shujuan Yang, Chun Yin, Peng Jia\*.
+
 ### Evaluating the Marginal Contribution of Remote Sensing for Forest Biomass Estimation When Inventory Data Exists
 
 Forests. 17(9), 1094. doi:10.3390/f17091094. [SCI, IF=3.1]
@@ -1514,6 +1532,14 @@ N/A
 
 学术报告 {data-icon=comment}
 --------------------------------------------------------------------------------
+### 健康城市感知:从多模态、GeoAI到因果推断
+
+第四届城市可持续发展学术会议·专题8“城市复杂系统感知、建模与预测”分会场
+
+中国, 北京
+
+2026.10
+
 ### 健康城市感知:从多模态地理数据、GeoAI到因果推断
 
 第六届空间全生命周期健康国际研讨会暨第十一届环境健康遥感诊断国际学术研讨会·健康城市感知与规划分会场
